@@ -22,3 +22,11 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 | **Carrera**               | Ingeniería de Software                                                                                                                    |
 | **Descripción**           | Estudiante de Ingeniería de Software con afinidad por proyectos Web, Interesado en ML, Data Science y aprender por sobre todas las cosas. |
 | Foto                      |![Integrante-Joseph-Rodriguez.jpeg](..%2Fassets%2Fchapter-01%2FIntegrante-Joseph-Rodriguez.jpeg)                                            |
+
+
+| **Integrante**            | **Stephano Jose Espinoza Cueva**                                                           |
+|---------------------------|--------------------------------------------------------------------------------------------|
+| **Código del Estudiante** | U202218590                                                                                 |
+| **Carrera**               | Ingeniería de Software                                                                     |
+| **Descripción**           | Estudiante de Ingeniería de Software con ganas de aprender mas sobre desarrollo web.       |
+| Foto                      | ![Integrante-Stephano-Espinoza.jpg](../assets/chapter-01/Integrante-Stephano-Espinoza.jpg) |
