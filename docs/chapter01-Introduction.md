@@ -192,5 +192,14 @@ Estos pasos permitirán validar la hipótesis más crítica: que Co-box Logistic
 </tr>
 </table>
 
+## 1.3. Segmentos objetivo.
+
+Nuestros segmentos objetivos son los siguientes grupos:
+
+- Empresas de transporte de carga: Pequeñas y medianas empresas que buscan digitalizar su operación para competir con grandes operadores, mejorar el control interno y ofrecer mayor trazabilidad a sus clientes.
+
+- Conductores de unidades de carga: Usuarios de campo encargados de registrar eventos logísticos (kilometraje, combustible, entregas), interactuar con la app y proporcionar evidencia de las operaciones.
+
+
 
 
