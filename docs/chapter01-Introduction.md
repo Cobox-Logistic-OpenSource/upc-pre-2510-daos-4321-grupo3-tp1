@@ -54,3 +54,26 @@ Co-box logistic es una plataforma creada para digitalizar por completo la gesti�
 Nuestro mayor desafío es lograr que las empresas adopten esta solución digital como una herramienta confiable, intuitiva y transformadora. Aunque la propuesta tecnológica representa una mejora significativa, algunas compañías pueden mostrarse reacias al cambio por temor a la complejidad o por depender de procesos tradicionales.
 
 ¿Cómo podríamos facilitar la adopción de Co-box logistic como una herramienta confiable, simple y efectiva para transformar digitalmente la gestión del transporte de carga y optimizar los procesos logísticos?
+
+#### 1.2.2.2. Lean UX Assumptions.
+
+- **Contexto**: Muchas empresas aún utilizan métodos manuales o Excel para gestionar sus operaciones logísticas, lo que dificulta la eficiencia y el control.
+
+**Assumption**: Digitalizar cada paso del proceso mediante una plataforma centralizada reducirá errores, optimizará el tiempo de gestión y mejorará la productividad operativa.
+
+- **Contexto**: La falta de trazabilidad en tiempo real genera desconfianza en los clientes y dificulta la supervisión efectiva de las entregas.
+
+**Assumption**: La geolocalización en tiempo real y la evidencia fotográfica al momento de las entregas aumentarán la transparencia, la confianza del cliente y la calidad del servicio.
+
+- **Contexto**: Los reportes manuales requieren tiempo y recursos para ser consolidados, lo que retrasa la toma de decisiones.
+
+**Assumption**: Al automatizar la generación de reportes con métricas clave, los gestores podrán tomar decisiones más rápidas y basadas en datos confiables.
+
+- **Contexto**: La adopción de nuevas tecnologías puede generar resistencia en empresas acostumbradas a sistemas tradicionales.
+
+**Assumption**: Una interfaz amigable, acompañada de capacitación y soporte, facilitará la transición digital y aumentará la adopción de la plataforma.
+
+- **Contexto**: Los equipos de transporte y logística suelen tener diferentes niveles de acceso y responsabilidad sobre la información.
+
+**Assumption**: Establecer roles personalizados dentro de la plataforma permitirá un manejo más seguro y eficiente de los datos y procesos.
+
