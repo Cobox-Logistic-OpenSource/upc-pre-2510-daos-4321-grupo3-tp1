@@ -77,3 +77,20 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 
 **Assumption**: Establecer roles personalizados dentro de la plataforma permitirá un manejo más seguro y eficiente de los datos y procesos.
 
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+- Creemos que al ofrecer una plataforma digital integral que centraliza todas las operaciones logísticas, mejoraremos la eficiencia y trazabilidad del transporte de carga.
+  Sabremos que estamos en lo correcto cuando observemos una reducción en errores operativos y una mejora en los tiempos de entrega y gestión.
+
+- Creemos que al incluir geolocalización en tiempo real y evidencia fotográfica de entregas, aumentaremos la confianza del cliente final y mejoraremos la transparencia.
+  Sabremos que estamos en lo correcto cuando se reduzcan las incidencias reportadas y aumente la satisfacción de los clientes.
+
+- Creemos que al automatizar los reportes e indicadores, facilitaremos la toma de decisiones basada en datos.
+  Sabremos que estamos en lo correcto cuando los gestores logren tomar acciones correctivas más rápidamente y reporten mejoras en sus KPIs logísticos.
+
+- Creemos que al ofrecer una interfaz simple, junto con capacitación para los usuarios, incrementaremos la adopción de la plataforma incluso en equipos con poca experiencia digital.
+  Sabremos que estamos en lo correcto cuando disminuya la necesidad de soporte técnico y se mantenga una alta tasa de uso activo.
+
+- Creemos que al permitir la gestión de roles y accesos diferenciados, aumentaremos la seguridad y eficiencia interna.
+  Sabremos que estamos en lo correcto cuando se eviten manipulaciones no autorizadas de datos y los usuarios valoren positivamente la organización del sistema.
+
