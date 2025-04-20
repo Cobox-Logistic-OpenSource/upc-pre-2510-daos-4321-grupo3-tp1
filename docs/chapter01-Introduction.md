@@ -16,12 +16,12 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| **Integrante**            | **Joseph Pablo Rodriguez Parco**                                                                                                          |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **Código del Estudiante** | U202223286                                                                                                                                |
-| **Carrera**               | Ingeniería de Software                                                                                                                    |
+| **Integrante**            | **Joseph Pablo Rodriguez Parco**                                                                  |
+|---------------------------|---------------------------------------------------------------------------------------------------|
+| **Código del Estudiante** | U202223286                                                                                        |
+| **Carrera**               | Ingeniería de Software                                                                            |
 | **Descripción**           | Estudiante de Ingeniería de Software con afinidad por proyectos Web, Interesado en ML, Data Science y aprender por sobre todas las cosas. |
-| Foto                      |![Integrante-Joseph-Rodriguez.jpeg](..%2Fassets%2Fchapter-01%2FIntegrante-Joseph-Rodriguez.jpeg)                                            |
+| Foto                      |    ![Integrante-Joseph-Rodriguez.jpeg](..%2Fassets%2Fchapter-01%2FIntegrante-Joseph-Rodriguez.jpeg)                                       |
 
 
 | **Integrante**            | **Stephano Jose Espinoza Cueva**                                                           |
@@ -76,6 +76,33 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 - **Contexto**: Los equipos de transporte y logística suelen tener diferentes niveles de acceso y responsabilidad sobre la información.
 
 **Assumption**: Establecer roles personalizados dentro de la plataforma permitirá un manejo más seguro y eficiente de los datos y procesos.
+#### 1.2.2.2 Lean UX Assumptions
+
+##### Business Outcomes
+- **Reducción de downtime**  
+  Disminuir en un 20 % las incidencias críticas de caída de temperatura en los primeros 6 meses, gracias a alertas tempranas y mantenimiento predictivo.
+- **Aumento de ingresos recurrentes**  
+  Convertir al menos un 25 % de usuarios en plan freemium a suscripciones de pago dentro de los primeros 3 meses de uso.
+- **Optimización de costos operativos**  
+  Reducir en un 15 % el gasto energético asociado a fallas no detectadas y a mantenimientos reactivos.
+- **Mejora en retención de clientes**  
+  Mantener una tasa de churn mensual por debajo del 5 % gracias a recomendaciones de IA y soporte proactivo.
+- **Escalabilidad de alianzas**  
+  Establecer al menos 2 integraciones con fabricantes de sensores certificados y 1 alianza con un distribuidor de equipos de frío en el primer año.
+
+##### User Outcomes & Benefits
+- **Confianza operativa**  
+  Gerentes y dueños de negocio detectan y solucionan riesgos de temperatura antes de que dañen su inventario.
+- **Eficiencia de técnicos**  
+  Técnicos de refrigeración reducen en un 30 % el tiempo de diagnóstico y planificación de visitas, usando historial y recomendaciones predictivas.
+- **Visibilidad y trazabilidad**  
+  Usuarios generan reportes PDF descargables en 2 clics, con datos de temperatura, consumo y mantenimientos realizados.
+- **Onboarding sin fricción**  
+  Nuevos usuarios configuran 3 sensores y completan el tour de la app en menos de 15 min, guiados por tutoriales integrados.
+- **Programación proactiva**  
+  La plataforma agenda automáticamente mantenimientos preventivos basados en patrones de uso real, reduciendo intervenciones de emergencia.
+- **Ahorro energético**  
+  Negocios identifican comportamientos anómalos de consumo y reciben alertas para optimizar el rendimiento de sus equipos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
