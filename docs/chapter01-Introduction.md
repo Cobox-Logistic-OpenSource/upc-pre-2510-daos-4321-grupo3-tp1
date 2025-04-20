@@ -94,3 +94,103 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 - Creemos que al permitir la gestión de roles y accesos diferenciados, aumentaremos la seguridad y eficiencia interna.
   Sabremos que estamos en lo correcto cuando se eviten manipulaciones no autorizadas de datos y los usuarios valoren positivamente la organización del sistema.
 
+#### 1.2.2.4. Lean UX Canvas
+
+<table>
+<tr>
+<td>
+<strong>Business Problem</strong><br><br>
+En el sector logístico de transporte de carga, persiste una alta dependencia de procesos manuales, dispersos y no estandarizados. Las empresas utilizan hojas de Excel, grupos de WhatsApp, fotos por celular y registros en papel para coordinar servicios, registrar recorridos, cargar combustible y controlar a sus operadores. Esta fragmentación genera errores frecuentes, pérdida de trazabilidad, ineficiencia administrativa y escasa capacidad de análisis operativo.
+
+Los gestores logísticos no cuentan con herramientas que les permitan planificar y supervisar las operaciones de forma centralizada ni generar reportes confiables de desempeño. Además, los choferes, que usualmente tienen bajo nivel de alfabetización digital, requieren soluciones sencillas que no interfieran con su trabajo diario, pero que permitan registrar actividades claves como fotos de odómetro, consumo de combustible o evidencia de entregas.
+
+La ausencia de trazabilidad y control de costos afecta la rentabilidad del negocio y genera desconfianza con los clientes, quienes exigen mayor transparencia y cumplimiento en los servicios contratados. Por ello, existe una necesidad urgente de contar con una plataforma digital integral que permita planificar servicios logísticos, registrar y documentar recorridos, automatizar reportes y mejorar la eficiencia del equipo de campo.
+</td>
+
+<td rowspan="2">
+<strong>Solutions</strong><br><br>
+1. <strong>Panel web de planificación y monitoreo:</strong>: Crear servicios logísticos con información de ruta, vehículo, chofer, fecha y observaciones.<br>
+2. <strong>Registro de consumos de combustible:</strong>: Enlace del código del servicio con foto del odómetro, tipo de combustible, capacidad del tanque y galones cargados.<br><br>
+3. <strong>Aplicación móvil de campo:</strong>: Para que los choferes registren recorridos, entregas y gastos. Permite fotos geolocalizadas como evidencia.<br><br>
+4. <strong>Reportes automáticos:</strong>: Dashboard con reportes exportables de consumo, kilometraje, eficiencia por vehículo o por chofer.<br><br>
+5. <strong>Gestión de usuarios y perfiles:</strong>:Diferenciación de roles y accesos entre operadores, administradores y clientes.<br><br>
+6. <strong>Diseño intuitivo:</strong>: Para choferes con bajo nivel digital, con botones grandes, flujos visuales y mínimos pasos de registro.
+</td>
+
+<td>
+<strong>Business Outcomes</strong><br><br>
+1. Digitalización completa del proceso logístico (sin uso de Excel o papel).<br><br>
+2. Reducción de errores en registro de servicios, kilómetros y combustible.<br><br>
+3. Ahorro de tiempo en consolidación de datos y generación de reportes.<br><br>
+4. Mejora en la trazabilidad de entregas y cumplimiento.<br><br>
+5. Control de costos operativos por mayor eficiencia en consumo de combustible y gestión de rutas.
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Users</strong><br><br>
+1. <strong>Choferes </strong> (25-55 años): Necesitan registrar de forma simple su odómetro, entregas, gastos y cargar evidencia de ruta.<br><br>
+2. <strong>Gestores logísticos </strong> (30-50 años): Requieren planificar servicios, controlar operaciones y generar reportes confiables.<br><br>
+3. <strong>Administradores </strong>(35-60 años): Buscan eficiencia operativa, reducción de costos y monitoreo general de la operación.
+</td>
+
+<td>
+<strong>User Outcomes & Benefits</strong><br><br>
+1. <strong>Eficiencia operativa:</strong>: Menos tiempo en reportes manuales, más control sobre el servicio.<br><br>
+2. <strong>Transparencia</strong>: Seguimiento del servicio con fotos y localización en tiempo real.<br><br>
+3. <strong>Comodidad</strong>: Registro en campo simplificado para choferes.<br><br>
+4. <strong>Control</strong>: Acceso a métricas clave sobre vehículos, recorridos y consumos.<br><br>
+5. <strong>Toma de decisiones basada en datos</strong>: Identificación de desvíos y oportunidades de ahorro.
+
+
+</td>
+</tr>
+
+<tr>
+<td>
+<strong>Hypotheses</strong><br><br>
+
+1. Al arrancar el proyecto, nuestro primer objetivo debe ser detectar y validar aquellos supuestos que presenten mayor riesgo para el éxito de la iniciativa. Este enfoque estratégico nos permitirá concentrar nuestros recursos en los aspectos más críticos, obteniendo aprendizajes valiosos de forma ágil mientras minimizamos potenciales amenazas antes de escalar el desarrollo.<br></br>
+2. Creemos que los gestores logísticos preferirán una herramienta digital a Excel si simplifica la planificación y genera reportes automáticos.<br></br>
+3. Creemos que los choferes usarán la app para registrar combustible y servicios si la interfaz es intuitiva.<br></br>
+4. Creemos que la evidencia fotográfica y la geolocalización aumentarán la confianza del cliente en el cumplimiento del servicio.<br></br>
+5. Creemos que los reportes automáticos permitirán a los administradores tomar decisiones más rápido y con menos errores.<br></br>
+6. Creemos que al eliminar el papel y digitalizar procesos se reducirán los errores de registro y aumentará la eficiencia operativa.
+</td>
+
+<td>
+<strong>What’s the most important thing we need to learn first?</strong><br><br>
+
+El supuesto más riesgoso es que los gestores logísticos y choferes estén dispuestos a reemplazar su flujo actual (basado en Excel, WhatsApp y papel) por un sistema digital centralizado. Si no perciben una mejora clara en su flujo de trabajo o la curva de adopción es muy alta, la plataforma no se utilizará, afectando su viabilidad.
+
+También es crítico saber si los choferes pueden usar la app sin necesidad de entrenamiento intensivo, ya que son actores clave en el éxito operativo diario de Co-box Logistic.
+En esta fase inicial, debemos priorizar la validación del supuesto relacionado con la Hipótesis 1, ya que la preferencia real de las gestantes por contenido médico validado es el pilar fundamental de nuestro modelo. Si este supuesto no se sostiene, toda nuestra propuesta de valor podría verse comprometida. La percepción de valor diferencial entre nuestra plataforma y las fuentes de información gratuitas pero no validadas será determinante para el éxito o fracaso de HelpMom.
+
+</td>
+
+<td>
+<strong>What’s the least amount of work we need to do to learn the next most important thing?</strong><br><br>
+
+1. Entrevistas y shadowing: Reunirnos con choferes y gestores para entender su flujo actual, dolores y necesidades reales.<br></br>
+
+2. MVP funcional mínimo: Crear una versión inicial que permita:
+
+- Crear servicios.
+
+- Registrar kilometraje y carga de combustible con foto.
+
+- Generar un primer reporte simple.
+  <br></br>
+
+3. Prueba controlada en una flota: Implementar la solución con 2-3 vehículos reales durante una semana, con supervisión directa.<br></br>
+
+4. Medición de adopción y satisfacción: Comparar tiempo de trabajo, errores registrados y percepción de valor frente al proceso anterior.<br></br>
+
+Estos pasos permitirán validar la hipótesis más crítica: que Co-box Logistic representa una mejora clara frente a las herramientas actuales, y que los usuarios clave están dispuestos a adoptarla sin fricción significativa.
+</td>
+</tr>
+</table>
+
+
+
