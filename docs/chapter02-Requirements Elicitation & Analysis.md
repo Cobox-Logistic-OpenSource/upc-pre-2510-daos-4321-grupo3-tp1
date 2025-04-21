@@ -158,3 +158,16 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 8. ¿Le preocupa la precisión del kilometraje que ingresa?
 9. ¿Qué comentarios o sugerencias tendría para que la app sea fácil de usar en ruta?
 10. ¿Qué incentivos podrían motivarlo a completar su reporte diario a tiempo?
+
+---
+#### 2.2.2. Registro de entrevistas
+
+##### Segmento objetivo #1 Gestores de Flota
+
+##### Segmento objetivo #2 Conductores de vehiculos de transporte de carga
+
+
+
+
+
+
