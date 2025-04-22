@@ -37,7 +37,7 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 | **Código del Estudiante** | U20201b772                                                                                        |
 | **Carrera**               | Ingeniería de Software                                                                            |
 | **Descripción**           | Soy estudiante de Ingeniería de Software. Estoy dispuesta a trabajar con mie quipo esforzadamente. Cuento con conocimientos en html, css y java script, lo cual puede sumar en el desarrollo del proyecto |
-| Foto                      |    ![Integrante-Merly-Salon.jpeg](assets/chapter-01/Integrante-Merly-Salon.jpeg)                                       |
+| Foto                      |    ![Integrante-Merly-Salon.jpeg](../assets/chapter-01/Integrante-Merly-Salon.jpeg)                                       |
 
 
 ## 1.2. Solution Profile
