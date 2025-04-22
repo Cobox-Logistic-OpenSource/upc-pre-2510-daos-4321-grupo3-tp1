@@ -40,6 +40,13 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 | Foto                      |    ![Integrante-Merly-Salon.jpeg](../assets/chapter-01/Integrante-Merly-Salon.jpeg)                                       |
 
 
+| **Integrante**            | **Raul Sanchez Cruz**                                                                  |
+|---------------------------|---------------------------------------------------------------------------------------------------|
+| **Código del Estudiante** | U201518942                                                                                        |
+| **Carrera**               | Ingeniería de Software                                                                            |
+| **Descripción**           | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). A lo largo del tiempo, desarrollé un fuerte interés por el desarrollo de software y la creación de aplicaciones. Actualmente trabajo en implementación de data centers y soluciones en la nube. |
+| Foto                      |    ![Integrante-Raul-Sanchez.jpeg](../assets/chapter-01/Integrante-Raul-Sanchez.jpeg)                                       |
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
