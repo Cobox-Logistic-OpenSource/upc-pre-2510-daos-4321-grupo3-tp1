@@ -30,7 +30,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
   </tr>
   <tr>
     <td colspan="2">Productos</td>
-    <td>AFE‑SERVICE</td>
+    <td>CO-BOX Logistic</td>
     <td>Samsara</td>
     <td>Fleet Complete</td>
     <td>Sendd</td>
