@@ -26,7 +26,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
     <td colspan="4">Pregunta</td>
   </tr>
   <tr>
-    <td colspan="4">Para identificar cómo otras soluciones gestionan rutas, odómetro, combustible, prueba fotográfica y reportes, y descubrir oportunidades de diferenciación para AFE‑SERVICE.</td>
+    <td colspan="4">Para identificar cómo otras soluciones gestionan rutas, odómetro, combustible, prueba fotográfica y reportes, y descubrir oportunidades de diferenciación para CO-BOX LOGISTICS</td>
   </tr>
   <tr>
     <td colspan="2">Productos</td>
@@ -121,7 +121,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- **Flujo Unificado:** AFE‑SERVICE unifica foto del odómetro, consumo de combustible y geolocalización en un solo proceso, a diferencia de Sendd (solo última milla) o Samsara (requiere hardware extra).
+- **Flujo Unificado:** CO-BOX LOGISTICS unifica foto del odómetro, consumo de combustible y geolocalización en un solo proceso, a diferencia de Sendd (solo última milla) o Samsara (requiere hardware extra).
 
 - **Onboarding Rápido:** Ofrecer instalación e integración en menos de 2 horas, frente a las 1–2 semanas típicas de Samsara o Fleet Complete.
 
