@@ -164,10 +164,46 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ##### Segmento objetivo #1 Gestores de Flota
 
+---
+#### Entrevista 1:
+
+- **Nombres y apellidos:** Maria Cabello Alzate
+- **Edad:** 24
+- **Distrito:** La Victoria, Chiclayo
+
+
+![Interview-1-segment-1.png](..%2Fassets%2Fchapter-02%2FInterview-1-segment-1.png)
+
+
+- **Inicio:** 0:02
+- **Duración:** 5:00
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EbfrSfoaKmBLmAWoW4dG7GMBRdJp1aSl_qSph5-691KLNA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RsluV9
+- **Resumen:** María Cabello Alzate, de 24 años y con cuatro años de experiencia en gestión de flotas en La Victoria (Chiclayo), supervisa alrededor de 25 camiones que cubren rutas regionales y de última milla. Actualmente, los choferes anotan el odómetro y el consumo de combustible en formularios impresos, envían fotos por WhatsApp y ella consolida manualmente todo en Excel, lo que provoca errores de transcripción, fotos de baja calidad o sin geolocalización y demoras de uno o dos días en disponer de información fiable. Para mejorar la eficiencia, María busca una plataforma que registre automáticamente el kilometraje, los litros cargados, la ubicación GPS de inicio y fin de ruta, y una fotografía clara del odómetro con fecha y hora. Revisa semanalmente un dashboard en Excel y presenta un informe mensual a la gerencia; estaría dispuesta a invertir entre USD 400 y USD 600 al mes si el sistema le permite ahorrar al menos esa misma cifra en tiempo y costos operativos, siempre y cuando la curva de aprendizaje sea mínima y los beneficios sean inmediatos.
+
+---
+#### Entrevista 2:
+- **Nombres y apellidos:**
+- **Edad:**
+- **Distrito:**
+
+
+---
 ##### Segmento objetivo #2 Conductores de vehiculos de transporte de carga
 
 
+#### Entrevista 1:
+
+- **Nombres y apellidos:** 
+- **Edad:** 
+- **Distrito:** 
 
 
 
+
+
+- **Inicio:** 
+- **Duración:** 
+- **URL:** 
+- **Resumen:** 
+---
 
