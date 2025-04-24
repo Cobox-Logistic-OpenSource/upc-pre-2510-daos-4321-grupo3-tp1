@@ -214,4 +214,18 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 
 ### 2.3.5. As-is Scenario Mapping.
+
 ![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
+
+### 2.4. Ubiquitous Language.
+
+Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se utilizarán en el desarrollo de la plataforma Co-box Logistic, junto con sus definiciones y ejemplos de uso.
+
+- **Trazabilidad en tiempo real:** Monitoreo continuo de la ubicación y estado de la carga mediante GPS y actualizaciones automáticas.
+- **Evidencia fotográfica de entrega:** Captura obligatoria de imágenes (firma, paquete, ubicación) al finalizar cada servicio.
+- **Kilometraje automatizado:** Registro digital de kilómetros recorridos, calculado por el sistema sin intervención manual.
+- **Odómetro:** Dispositivo que registra la distancia total recorrida por un vehículo a lo largo de su vida útil.
+- **Reporte de desempeño (KPI):** Documento generado automáticamente con métricas como tiempo de entrega, rutas optimizadas y eficiencia del conductor.
+- **Geocerca (Geofencing):** Límite virtual que activa alertas cuando un vehículo entra/sale de zonas predefinidas (ej: almacén, cliente).
+- **Ruta optimizada:** Trayecto calculado por algoritmos para minimizar tiempo, combustible o costos.
+- **Cliente final verificable:** Receptor de la carga que confirma la entrega mediante firma digital o código.
