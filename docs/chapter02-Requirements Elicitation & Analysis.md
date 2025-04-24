@@ -306,6 +306,28 @@ Etapas: Asignación → Registro manual → Paradas → Entrega → Reporte fina
 Pains: Olvido, apps lentas, papeleo<br>
 Oportunidades: App simple, geolocalización automática, fotos como evidencia</p>
 
+#### 2.3.4. Empathy Mapping
+
+<p><strong>Jorge Perez (Gerente de Flota)</strong><br>
+  
+<strong>Piensa y siente:</strong> Presión por eficiencia<br>
+<strong>Dice:</strong> "Necesito todo consolidado rápido"<br>
+<strong>Hace:</strong> Usa Excel, revisa papeles<br>
+<strong>Escucha:</strong> Clientes, gerencia<br>
+<strong>Ve:</strong> Papeles desordenados<br>
+<strong>Pains:</strong> Sin trazabilidad, pérdida de tiempo<br>
+<strong>Gains:</strong> App que consolide y reduzca papeleo</p>
+
+<p><strong>Darikson Brito (Conductor)</strong><br>
+  
+<strong>Piensa y siente:</strong> Quiere soluciones simples<br>
+<strong>Dice:</strong> "Que sea rápido y simple"<br>
+<strong>Hace:</strong> Maneja, anota, toma fotos<br>
+<strong>Escucha:</strong> Jefes, quejas<br>
+<strong>Ve:</strong> Poco tiempo, rutas complicadas<br>
+<strong>Pains:</strong> Apps que fallan, presión<br>
+<strong>Gains:</strong> App sencilla, botones grandes, offline</p>
+
 #### 2.3.5. As-is Scenario Mapping.
 
 ![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
