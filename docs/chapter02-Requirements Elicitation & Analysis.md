@@ -187,13 +187,18 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 - **Distrito:**
 
 
+- **Inicio:**
+- **Duración:**
+- **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/ES7DItVYxuVDiv8R6DPypBIBSmYYE-p0Y8wgvfbQOqFBEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Vq9RzC*
+- **Resumen:**
+
 ---
 ##### Segmento objetivo #2 Conductores de vehiculos de transporte de carga
 
 
 #### Entrevista 1:
 
-- **Nombres y apellidos:** 
+- **Nombres y apellidos:*Daritzon* 
 - **Edad:** 
 - **Distrito:** 
 
@@ -201,9 +206,12 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 
 
-- **Inicio:** 
-- **Duración:** 
-- **URL:** 
-- **Resumen:** 
+- **Inicio:*0:00* 
+- **Duración:*2:50* 
+- **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
+- **Resumen:*Daritzon un conductor de transporte pesado con 10 año de experiencia* 
 ---
 
+
+### 2.3.5. As-is Scenario Mapping.
+![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
