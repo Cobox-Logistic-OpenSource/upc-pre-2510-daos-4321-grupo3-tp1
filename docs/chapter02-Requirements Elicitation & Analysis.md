@@ -119,7 +119,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 </table>
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
 - **Flujo Unificado:** CO-BOX LOGISTICS unifica foto del odómetro, consumo de combustible y geolocalización en un solo proceso, a diferencia de Sendd (solo última milla) o Samsara (requiere hardware extra).
 
@@ -211,46 +211,48 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 - **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
 - **Resumen:*Daritzon un conductor de transporte pesado con 10 año de experiencia* 
 ---
-### 2.2.3. Análisis de entrevistas
+#### 2.2.3. Análisis de entrevistas
 
-**Segmento 1: Gerentes/Encargados de Flota**  
+<h3>Segmento 1: Gerentes/Encargados de Flota</h3>
+<ul>
+  <li><strong>Rol principal:</strong> 100% coordina rutas, supervisa unidades y gestiona costos.</li>
+  <li><strong>Vehículos:</strong> Entre 8 y 12, camiones de 3 a 30 toneladas.</li>
+  <li><strong>Herramientas actuales:</strong> 100% usa Excel y papel, 66% con WhatsApp.</li>
+  <li><strong>Problemas comunes:</strong>
+    <ul>
+      <li>100%: discrepancias en consumo y kilometraje.</li>
+      <li>66%: dificultad para consolidar datos.</li>
+      <li>66%: falta de información en tiempo real.</li>
+    </ul>
+  </li>
+  <li><strong>Frecuencia de revisión:</strong> 33% semanal, 33% quincenal, 33% mensual.</li>
+  <li><strong>Datos deseados automáticamente:</strong> 100% desea kilometraje, consumo, tiempos, evidencia digital.</li>
+  <li><strong>Adopción de app:</strong> 100% dispuesto si es intuitiva y económica.</li>
+  <li><strong>Presupuesto estimado:</strong> S/ 30 - S/ 150 por unidad mensual.</li>
+</ul>
 
-- **Rol principal:** El 100% de los entrevistados declara encargarse de coordinar rutas, supervisar unidades y gestionar costos operativos.
+<h3>Segmento 2: Conductores de Vehículos de Carga</h3>
+<ul>
+  <li><strong>Experiencia:</strong> 100% con más de 10 años.</li>
+  <li><strong>Registro actual:</strong> 100% usa cuadernos.</li>
+  <li><strong>Uso de fotos/apps:</strong> 100% ha usado WhatsApp ocasionalmente.</li>
+  <li><strong>Dificultades:</strong>
+    <ul>
+      <li>66%: olvido o apuro.</li>
+      <li>100%: apps lentas o sin señal.</li>
+    </ul>
+  </li>
+  <li><strong>Preferencia:</strong> App simple, pocos botones, uso offline.</li>
+  <li><strong>Geolocalización:</strong> 100% la considera útil.</li>
+  <li><strong>Incentivos:</strong> 66% menciona bonos; 100% quiere facilidad de uso.</li>
+</ul>
 
-- **Cantidad de vehículos:** Todos administran entre 8 y 12 vehículos, mayormente camiones de 3 a 30 toneladas.
 
-- **Herramientas actuales:** 100% usa Excel y papel; 66% combina con WhatsApp para coordinar.
-
-- **Problemas comunes:** 100% señala discrepancias en consumo y kilometraje, el 66% destaca la dificultad para consolidar datos y el 66% menciona la falta de información en tiempo real.
-
-- **Frecuencia de revisión de reportes:** 33% semanal, 33% quincenal, 33% mensual.
-
-- **Datos deseados automáticamente:** 100% quiere kilometraje, consumo, tiempos y evidencia digital (fotos/firma).
-
-- **Disposición a adoptar app:** 100% está dispuesto, si es intuitiva y de bajo costo.
-
-- **Presupuesto promedio estimado:** S/ 30 - S/ 150 por unidad mensualmente.
-
-**Segmento 2: Conductores de Vehículos de Carga**  
-
-- **Experiencia:** 100% tiene más de 10 años conduciendo rutas de carga.
-
-- **Registro actual:** 100% usa cuadernos o bitácoras.
-
-- **Uso de apps o fotos:** 100% ha enviado fotos por WhatsApp, pero solo ocasionalmente.
-
-- **Dificultades con registros:** 66% menciona olvido o apuro y 100% señala problemas con apps lentas o falta de señal.
-
-- **Preferencia por app simple:** 100% prefiere una app con pocos botones y uso offline.
-
-- **Utilidad de geolocalización:** 100% considera útil para validar entregas y evitar reclamos.
-- **Incentivos:** 66% menciona bonos o recompensas; 100% prioriza facilidad de uso.
-
-### 2.3.5. As-is Scenario Mapping.
+#### 2.3.5. As-is Scenario Mapping.
 
 ![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
 
-### 2.4. Ubiquitous Language.
+#### 2.4. Ubiquitous Language.
 
 Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se utilizarán en el desarrollo de la plataforma Co-box Logistic, junto con sus definiciones y ejemplos de uso.
 
