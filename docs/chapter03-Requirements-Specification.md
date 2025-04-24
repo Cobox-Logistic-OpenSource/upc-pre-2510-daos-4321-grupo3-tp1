@@ -52,7 +52,34 @@
 
 ## 3.3 Impact Mapping
 ### Gestor de flota
-![gestor de flota](assets/Gestor%20de%20flota.png)
+![Gestor flotas](https://hackmd.io/_uploads/S1TKIHuJlx.jpg)
 
 ### Conductores de transporte
-![gestor de flota](assets/Conductores%20de%20Transporte.png)
+![condutora](https://hackmd.io/_uploads/rJvGvru1gg.jpg)
+
+## 3.4 Product Backlog
+
+| # Orden/Priority | User Story ID | Título                                      | Descripción                                                                                               | Story Points (1 / 2 / 3 / 5 / 8) |
+|------------------|----------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------|
+| 1                | US-06          | Consultar entregas pendientes               | Como conductor, quiero ver las entregas asignadas del día, para planificar mi ruta.                     | 8                                |
+| 2                | US-01          | Visualizar rutas asignadas                 | Como gestor, quiero ver las rutas asignadas a cada unidad, para hacer seguimiento efectivo.              | 8                                |
+| 3                | US-09          | Reportar incidente durante entrega         | Como conductor, quiero reportar un incidente, para alertar al gestor y agilizar la solución.             | 8                                |
+| 4                | US-13          | Programar mantenimiento preventivo         | Como gestor, quiero programar mantenimientos regulares, para evitar fallas inesperadas.                 | 8                                |
+| 5                | US-17          | Ver reporte semanal de entregas            | Como gestor, quiero ver un reporte semanal por conductor, para evaluar su rendimiento.                   | 5                                |
+| 6                | US-03          | Registrar disponibilidad de unidad         | Como gestor, quiero marcar una unidad como disponible o en mantenimiento, para gestionar eficientemente. | 5                                |
+| 7                | US-08          | Confirmar inicio de ruta                   | Como conductor, quiero confirmar el inicio de mi ruta, para registrar la hora de salida.                 | 5                                |
+| 8                | US-12          | Visualizar historial de incidencias        | Como gestor, quiero revisar el historial de incidencias pasadas, para tomar decisiones preventivas.      | 5                                |
+| 9                | US-04          | Visualizar historial de movimientos        | Como gestor, quiero ver el historial de movimientos de una unidad, para rastrear sus actividades.        | 5                                |
+|10                | US-16          | Notificación de mantenimiento pendiente    | Como gestor, quiero recibir alertas de mantenimiento próximo, para actuar con anticipación.             | 5                                |
+|11                | US-07          | Visualizar entregas completadas            | Como conductor, quiero ver un historial de entregas completadas, para llevar control de mis actividades. | 5                                |
+|12                | US-10          | Visualizar estado de incidencias           | Como gestor, quiero ver un listado de incidencias activas, para tomar acción rápidamente.                | 5                                |
+|13                | US-14          | Registrar mantenimiento realizado          | Como técnico, quiero registrar el mantenimiento con detalles, para dejar constancia de lo realizado.     | 3                                |
+|14                | US-19          | Comparar rendimiento entre conductores     | Como gestor, quiero comparar eficiencia entre conductores, para fomentar buenas prácticas.               | 3                                |
+|15                | US-05          | Registrar entrega con evidencia            | Como conductor, quiero registrar entregas con foto y firma, para validar su cumplimiento.                | 3                                |
+|16                | US-11          | Filtrar incidencias por gravedad           | Como gestor, quiero filtrar las incidencias según su gravedad, para priorizar las más urgentes.          | 3                                |
+|17                | US-02          | Asignar unidades a rutas                   | Como gestor, quiero asignar unidades de transporte a rutas específicas, para controlar la operación.     | 2                                |
+|18                | US-18          | Ver eficiencia por unidad                  | Como gestor, quiero ver rendimiento por unidad, para tomar decisiones sobre el uso de la flota.          | 2                                |
+|19                | US-15          | Ver próximas fechas de mantenimiento       | Como gestor, quiero ver en un calendario las fechas de mantenimiento, para no olvidar los programados.   | 2                                |
+|20                | US-20          | Visualizar alertas críticas en dashboard   | Como gestor, quiero ver alertas prioritarias en el dashboard, para atender eventos críticos de inmediato.| 1                                |
+
+
