@@ -47,6 +47,14 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 | **Descripción**           | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). A lo largo del tiempo, desarrollé un fuerte interés por el desarrollo de software y la creación de aplicaciones. Actualmente trabajo en implementación de data centers y soluciones en la nube. |
 | Foto                      |    ![Integrante-Raul-Sanchez.jpeg](../assets/chapter-01/Integrante-Raul-Sanchez.jpeg)                                       |
 
+
+| **Integrante**            | **Angel Berrospi Marin**                                                                  |
+|---------------------------|---------------------------------------------------------------------------------------------------|
+| **Código del Estudiante** | U202114701                                                                                        |
+| **Carrera**               | Ingeniería de Software                                                                            |
+| **Descripción**           | Soy estudiante de Ingeniería de Software. Tendre el compromiso con mi equipo. Cuento con conocimientos en html, css y SQL, lo cual puede ser de ayuda en el desarrollo del proyecto |
+| Foto                      |    ![Integrante-Angel-Berrospi.jpg](../assets/chapter-01/Integrante-Angel-Berrospi.jpg)   
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
