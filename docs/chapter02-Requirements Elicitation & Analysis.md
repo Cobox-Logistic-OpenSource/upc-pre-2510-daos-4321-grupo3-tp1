@@ -294,6 +294,18 @@ Tecnología: Celular básico, WhatsApp, cámara</p>
 <p><strong>Conclusiones:</strong><br>
 Ambos valoran registrar kilometraje y consumo. Jorge Perez analiza y consolida; Darikson Brito ejecuta. La app debe enfocarse en estas tareas compartidas y críticas.</p>
 
+#### 2.3.3 User Journey Mapping (AS-IS) 
+
+<p><strong>Jorge Perez - Gerente de Flota</strong><br>
+Etapas: Planificación → Coordinación → Recepción → Consolidación → Análisis → Reporte<br>
+Pains: Pérdida de tiempo, errores, retrasos<br>
+Oportunidades: Automatizar reportes, acceso en tiempo real, validación visual</p>
+
+<p><strong>Darikson Brito - Conductor</strong><br>
+Etapas: Asignación → Registro manual → Paradas → Entrega → Reporte final → Entrega papeles<br>
+Pains: Olvido, apps lentas, papeleo<br>
+Oportunidades: App simple, geolocalización automática, fotos como evidencia</p>
+
 #### 2.3.5. As-is Scenario Mapping.
 
 ![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
