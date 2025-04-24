@@ -269,7 +269,8 @@ Frustraciones: Apps lentas, sin señal, sistemas complejos<br>
 Comportamiento: Rutinario, cumple objetivos<br>
 Tecnología: Celular básico, WhatsApp, cámara</p>
 
-<h3>2.3.2 User Task Matrix</h3>
+#### 2.3.2 User Task Matrix
+
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <th>Tareas / User Persona</th>
