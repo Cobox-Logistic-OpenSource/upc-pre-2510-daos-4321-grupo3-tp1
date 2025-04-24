@@ -247,6 +247,51 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
   <li><strong>Incentivos:</strong> 66% menciona bonos; 100% quiere facilidad de uso.</li>
 </ul>
 
+### 2.3. Needfinding
+
+#### 2.3.1 User Personas.
+
+<p><strong>User Persona 1: Jorge Perez</strong><br>
+Rol: Gerente de Flota<br>
+Edad: 44 años<br>
+Educación: Técnico en logística<br>
+Objetivos: Reducir costos, automatizar reportes, mejorar trazabilidad<br>
+Frustraciones: Consolidar manualmente, falta de visibilidad<br>
+Comportamiento: Analiza semanalmente, busca eficiencia<br>
+Tecnología: Excel intermedio, WhatsApp</p>
+
+<p><strong>User Persona 2: Darikson Brito</strong><br>
+Rol: Conductor de camión<br>
+Edad: 50 años<br>
+Educación: Secundaria completa<br>
+Objetivos: Cumplir rutas, evitar reclamos, reportar fácil<br>
+Frustraciones: Apps lentas, sin señal, sistemas complejos<br>
+Comportamiento: Rutinario, cumple objetivos<br>
+Tecnología: Celular básico, WhatsApp, cámara</p>
+
+<h3>2.3.2 User Task Matrix</h3>
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Tareas / User Persona</th>
+    <th>Jorge Perez (Frec.)</th>
+    <th>Jorge Perez (Imp.)</th>
+    <th>Darikson Brito (Frec.)</th>
+    <th>Darikson Brito (Imp.)</th>
+  </tr>
+  <tr><td>Planificar rutas</td><td>Alta</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Coordinar entregas</td><td>Alta</td><td>Alta</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Registrar kilometraje</td><td>Media</td><td>Alta</td><td>Alta</td><td>Alta</td></tr>
+  <tr><td>Reportar combustible</td><td>Media</td><td>Alta</td><td>Alta</td><td>Alta</td></tr>
+  <tr><td>Consolidar datos</td><td>Alta</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Generar reportes</td><td>Media</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Foto del odómetro</td><td>Baja</td><td>Media</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Usar apps móviles</td><td>Media</td><td>Alta</td><td>Baja</td><td>Alta</td></tr>
+  <tr><td>Verificar entregas</td><td>Alta</td><td>Alta</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Atender reclamos</td><td>Media</td><td>Alta</td><td>Baja</td><td>Media</td></tr>
+</table>
+
+<p><strong>Conclusiones:</strong><br>
+Ambos valoran registrar kilometraje y consumo. Jorge Perez analiza y consolida; Darikson Brito ejecuta. La app debe enfocarse en estas tareas compartidas y críticas.</p>
 
 #### 2.3.5. As-is Scenario Mapping.
 
