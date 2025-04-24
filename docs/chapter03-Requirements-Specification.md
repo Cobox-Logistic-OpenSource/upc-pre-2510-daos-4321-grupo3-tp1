@@ -50,12 +50,13 @@
 | US-19         | Comparar rendimiento entre conductores    | Como gestor, quiero comparar eficiencia entre conductores, para fomentar buenas prácticas.              | Escenario 01: Ranking de conductores <br><br> Dado que hay varios registros de entregas <br> Cuando selecciona periodo de comparación <br> Entonces se muestra ranking con métricas clave. | EP05                       |
 | US-20         | Visualizar alertas críticas en dashboard  | Como gestor, quiero ver alertas prioritarias en el dashboard, para atender eventos críticos de inmediato. | Escenario 01: Visualización de alertas <br><br> Dado que existen eventos críticos <br> Cuando accede al dashboard <br> Entonces se muestran alertas con prioridad destacada. | EP05                       |
 
-## 3.3 Impact Mapping
 ### Gestor de flota
-![Gestor flotas](https://hackmd.io/_uploads/S1TKIHuJlx.jpg)
+![Gestor de flota](https://hackmd.io/_uploads/BJsJjr_Jge.png)
+
 
 ### Conductores de transporte
-![condutora](https://hackmd.io/_uploads/rJvGvru1gg.jpg)
+
+![conductores](https://hackmd.io/_uploads/BkrTcHu1le.png)
 
 ## 3.4 Product Backlog
 
