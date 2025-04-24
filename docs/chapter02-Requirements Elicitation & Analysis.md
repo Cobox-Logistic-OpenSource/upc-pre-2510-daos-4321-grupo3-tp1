@@ -211,7 +211,40 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 - **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
 - **Resumen:*Daritzon un conductor de transporte pesado con 10 año de experiencia* 
 ---
+### 2.2.3. Análisis de entrevistas
 
+**Segmento 1: Gerentes/Encargados de Flota**  
+
+- **Rol principal:** El 100% de los entrevistados declara encargarse de coordinar rutas, supervisar unidades y gestionar costos operativos.
+
+- **Cantidad de vehículos:** Todos administran entre 8 y 12 vehículos, mayormente camiones de 3 a 30 toneladas.
+
+- **Herramientas actuales:** 100% usa Excel y papel; 66% combina con WhatsApp para coordinar.
+
+- **Problemas comunes:** 100% señala discrepancias en consumo y kilometraje, el 66% destaca la dificultad para consolidar datos y el 66% menciona la falta de información en tiempo real.
+
+- **Frecuencia de revisión de reportes:** 33% semanal, 33% quincenal, 33% mensual.
+
+- **Datos deseados automáticamente:** 100% quiere kilometraje, consumo, tiempos y evidencia digital (fotos/firma).
+
+- **Disposición a adoptar app:** 100% está dispuesto, si es intuitiva y de bajo costo.
+
+- **Presupuesto promedio estimado:** S/ 30 - S/ 150 por unidad mensualmente.
+
+**Segmento 2: Conductores de Vehículos de Carga**  
+
+- **Experiencia:** 100% tiene más de 10 años conduciendo rutas de carga.
+
+- **Registro actual:** 100% usa cuadernos o bitácoras.
+
+- **Uso de apps o fotos:** 100% ha enviado fotos por WhatsApp, pero solo ocasionalmente.
+
+- **Dificultades con registros:** 66% menciona olvido o apuro y 100% señala problemas con apps lentas o falta de señal.
+
+- **Preferencia por app simple:** 100% prefiere una app con pocos botones y uso offline.
+
+- **Utilidad de geolocalización:** 100% considera útil para validar entregas y evitar reclamos.
+- **Incentivos:** 66% menciona bonos o recompensas; 100% prioriza facilidad de uso.
 
 ### 2.3.5. As-is Scenario Mapping.
 
