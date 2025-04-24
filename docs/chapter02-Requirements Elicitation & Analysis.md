@@ -214,4 +214,5 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 
 ### 2.3.5. As-is Scenario Mapping.
+
 ![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
