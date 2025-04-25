@@ -293,26 +293,16 @@ A continuacón presentamos las User Journey Mapping para los dos segmentos de nu
 
 
 #### 2.3.4. Empathy Mapping
+El Empathy Mapping es una herramienta utilizada para comprender mejor a los usuarios o clientes al explorar sus pensamientos, sentimientos, comportamientos y necesidades. Se organiza en secciones como ¿Qué escucha?, ¿Qué ve?, ¿Qué piensa y siente?, ¿Qué dice y hace?, Frustraciones y Motivaciones. Ayuda a los equipos de diseño a crear soluciones más alineadas con las experiencias y perspectivas de los usuarios.
+A continuación los mapas de empatía de los dos segmento de nuestro proyecto Coo-box Logistic:
 
-<p><strong>Jorge Perez (Gerente de Flota)</strong><br>
-  
-<strong>Piensa y siente:</strong> Presión por eficiencia<br>
-<strong>Dice:</strong> "Necesito todo consolidado rápido"<br>
-<strong>Hace:</strong> Usa Excel, revisa papeles<br>
-<strong>Escucha:</strong> Clientes, gerencia<br>
-<strong>Ve:</strong> Papeles desordenados<br>
-<strong>Pains:</strong> Sin trazabilidad, pérdida de tiempo<br>
-<strong>Gains:</strong> App que consolide y reduzca papeleo</p>
+#### Segmento: Gestor de flota:
+![Empathy Map Gestor de Flota](https://raw.githubusercontent.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/feature/chapter-02/assets/chapter-02/Empatymapping_SegmentoGestorFlota.png)
 
-<p><strong>Darikson Brito (Conductor)</strong><br>
-  
-<strong>Piensa y siente:</strong> Quiere soluciones simples<br>
-<strong>Dice:</strong> "Que sea rápido y simple"<br>
-<strong>Hace:</strong> Maneja, anota, toma fotos<br>
-<strong>Escucha:</strong> Jefes, quejas<br>
-<strong>Ve:</strong> Poco tiempo, rutas complicadas<br>
-<strong>Pains:</strong> Apps que fallan, presión<br>
-<strong>Gains:</strong> App sencilla, botones grandes, offline</p>
+#### Segmento: Conductor de vehiculos de transporte
+
+![Empathy Map Conductor](https://raw.githubusercontent.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/feature/chapter-02/assets/chapter-02/Empatymapping_SegmentoConductor.png)
+
 
 #### 2.3.5. As-is Scenario Mapping.
 
