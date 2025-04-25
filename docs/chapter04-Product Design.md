@@ -131,17 +131,32 @@ El sistema de etiquetado de  Co-Box Logistics ha sido diseñado para facilitar l
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-**Landing Page**
--Title: 
--Meta Description: 
--Meta Keywords: 
--Meta Author: 
+<h4>Landing Page</h4>
+<p><strong>Title:</strong><br>
+Co-Box Logistics | Plataforma Inteligente para Gestión de Transporte de Carga</p>
 
-**Aplicación Web**
--Title: 
--Meta Description: 
--Meta Keywords: 
--Meta Author: 
+<p><strong>Meta Description:</strong><br>
+Descubre Co-Box Logistics, la solución digital avanzada para empresas de transporte en Perú. Optimiza rutas, controla kilometraje, captura evidencias y mejora la trazabilidad logística en una sola plataforma.</p>
+
+<p><strong>Meta Keywords:</strong><br>
+logística, transporte de carga, gestión de flotas, kilometraje, geolocalización, reportes automáticos, Co-Box Logistics, control de vehículos, logística Perú</p>
+
+<p><strong>Meta Author:</strong><br>
+Equipo de Desarrollo - Co-Box Logistics</p>
+
+<h4>Aplicación Web</h4>
+<p><strong>Title:</strong><br>
+Panel de Control | Co-Box Logistics - Gestión de Flotas y Rutas en Tiempo Real</p>
+
+<p><strong>Meta Description:</strong><br>
+Accede al panel de gestión de Co-Box Logistics y administra rutas, conductores, mantenimientos y reportes en tiempo real. Plataforma web eficiente para optimizar la logística de transporte.</p>
+
+<p><strong>Meta Keywords:</strong><br>
+panel de control, gestión logística, rutas, conductores, transporte inteligente, reportes automáticos, odómetro, eficiencia logística</p>
+
+<p><strong>Meta Author:</strong><br>
+Equipo Técnico - Co-Box Logistics</p>
+
 
 #### 4.2.4. Searching Systems
 
