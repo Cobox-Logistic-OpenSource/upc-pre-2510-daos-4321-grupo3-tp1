@@ -182,15 +182,16 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ---
 #### Entrevista 2:
-- **Nombres y apellidos:**
+- **Nombres y apellidos:*Jorge*
 - **Edad:**
 - **Distrito:**
+![Entrevista numero 2 segmento1.jpg](../assets/chapter-02/Entrevista%20numero%202%20segmento1.jpg)
 
 
 - **Inicio:**
-- **Duración:**
+- **Duración:*3:16*
 - **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/ES7DItVYxuVDiv8R6DPypBIBSmYYE-p0Y8wgvfbQOqFBEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Vq9RzC*
-- **Resumen:**
+- **Resumen:*El rol que tiene es ver la programación para las unidades, revisar el gps de cada unidad, estar al tanto de la operación de cada vehículo, maneja 38 vehículos lo cual tienen una ruta de lima a provincias, el registra el consumo de combustible a través de formatos que se llenan manualmente, la frecuencia que tiene de revisión es cada 2 días, lo que espera de una pagina web  ver el consumo de combustible, el rendimiento del combustible, gastos de peajes y cosas esenciales para una buena gestión de sus unidades, nos dice que la aplicación seria de mucha utilidad ya que ellos hacen sus registros manualmente, lo que el quiere es la facilidad de accesibilidad de la web.*
 
 ---
 ##### Segmento objetivo #2 Conductores de vehiculos de transporte de carga
