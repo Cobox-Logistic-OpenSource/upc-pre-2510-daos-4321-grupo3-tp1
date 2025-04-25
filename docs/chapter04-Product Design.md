@@ -228,6 +228,9 @@ Link: https://www.figma.com/board/NOCvTeeofZ6i7wW7jL5dPH/Website-wireframe?node-
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+![Web_Applications_Wireflow.jpg](../assets/chapter-04/Web_Applications_Wireflow.jpg)
+
+
 #### 4.4.3. Web Applications Mock-ups
 
 ![Inicio_Sesion.jpg](../assets/chapter-04/Inicio_Sesion.jpg)
