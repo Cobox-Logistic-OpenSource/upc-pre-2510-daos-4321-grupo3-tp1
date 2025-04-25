@@ -183,8 +183,8 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 ---
 #### Entrevista 2:
 - **Nombres y apellidos:*Jorge*
-- **Edad:**
-- **Distrito:**
+- **Edad:**44
+- **Distrito:** Surquillo
 ![Entrevista numero 2 segmento1.jpg](../assets/chapter-02/Entrevista%20numero%202%20segmento1.jpg)
 
 
@@ -260,7 +260,7 @@ Tecnología: Excel intermedio, WhatsApp</p>
 
 <p><strong>User Persona 2: Darikson Brito</strong><br>
 Rol: Conductor de camión<br>
-Edad: 50 años<br>
+Edad: 34 años<br>
 Educación: Secundaria completa<br>
 Objetivos: Cumplir rutas, evitar reclamos, reportar fácil<br>
 Frustraciones: Apps lentas, sin señal, sistemas complejos<br>
