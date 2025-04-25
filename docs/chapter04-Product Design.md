@@ -229,6 +229,6 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 ### 4.8. Database Design
 
-
+![Diagrama_DB.png](..%2Fassets%2Fchapter-04%2FDiagrama_DB.png)
 
 #### 4.8.1. Database Diagram
