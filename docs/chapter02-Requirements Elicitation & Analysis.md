@@ -285,11 +285,11 @@ Ambos valoran registrar kilometraje y consumo. Jorge Perez analiza y consolida; 
 El journey mapping (mapeo del recorrido del usuario) es una técnica que visualiza el proceso completo que un usuario sigue al interactuar con un producto o servicio. Permite identificar las emociones, acciones y puntos de contacto en cada etapa del recorrido, ayudando a mejorar la experiencia del usuario. Su objetivo es entender mejor las necesidades y desafíos del usuario para optimizar su experiencia.
 A continuacón presentamos las User Journey Mapping para los dos segmentos de nuestro proyecto Coo-box logistic:
 #####  Segmento 1: Gestor de flota
-![Journey Mapping Gestor de Flota](./assets/chapter-02/JourneyMapping_GestorFlota.png)
+![Journey Mapping Gestor de Flota](https://raw.githubusercontent.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/feature/chapter-02/assets/chapter-02/JourneyMapping_GestorFlota.png)
 
 ##### Segmento 2: Conductor de vehiculos de transporte
 
-![Journey Mapping Conductor](./assets/chapter-02/JourneyMapping_conductor.png)
+![Journey Mapping Conductor](https://raw.githubusercontent.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/feature/chapter-02/assets/chapter-02/JourneyMapping_conductor.png)
 
 
 #### 2.3.4. Empathy Mapping
