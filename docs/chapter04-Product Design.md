@@ -223,6 +223,8 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 #### 4.7.1. Class Diagrams
 ![Diagrama_Clases.png](..%2Fassets%2Fchapter-04%2FDiagrama_Clases.png)
 
+Link para visualizar en LucidChart: https://lucid.app/lucidchart/3ec59595-e197-4aa8-b849-5a46563d7d3c/edit?viewport_loc=-4168%2C-3667%2C7703%2C3581%2C0_0&invitationId=inv_71acbb3d-962c-4709-a359-8c619cb6d81a
+
 #### 4.7.2. Class Dictionary
 
 <h3>Usuario</h3>
@@ -601,3 +603,5 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 #### 4.8.1. Database Diagram
 ![Diagrama_DB.png](..%2Fassets%2Fchapter-04%2FDiagrama_DB.png)
+Link para visualizar en LucidChart: https://lucid.app/lucidchart/4fd78d27-7220-449d-be37-28a6141516eb/edit?viewport_loc=-6283%2C3%2C7551%2C4172%2C0_0&invitationId=inv_24263ba6-4e7d-47c7-8558-73e3084a64e1
+
