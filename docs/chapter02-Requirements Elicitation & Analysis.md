@@ -247,12 +247,14 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ### 2.3. Needfinding
 #### 2.3.1 User Personas.
-#####  User Persona: Jorge Perez
-![UserPersona_Jorge_Perez.png](..assets/chapter-02/UserPersona_Jorge_Perez.png)
+Un user persona es una representación ficticia y detallada de un grupo de usuarios que comparten características, necesidades y comportamientos similares. Se utiliza para comprender mejor las motivaciones, objetivos y problemas de los usuarios, ayudando a diseñar productos o servicios que satisfagan sus expectativas. El user persona se basa en datos reales obtenidos de investigaciones y entrevistas, pero se presenta de manera resumida para facilitar la toma de decisiones en el diseño.
+A continuacón presentamos las User Personas de nuestro proyecto Coo-box logistic:
+#####  Segmento 1: Gestor de flota
+![User Persona Jorge Perez](https://github.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/raw/feature/chapter-02/assets/chapter-02/UserPersona_Jorge_Perez.png)
 
-##### User Persona: Darikson Brito
 
-![UserPersona_DariksonBrito.png](..assets/chapter-02/UserPersona_Darikson_Brito.png)
+##### Segmento 2: Conductor de vehiculos de transporte
+![User Persona Darikson Brito](https://github.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/raw/feature/chapter-02/assets/chapter-02/UserPersona_Darikson_Brito.png)
 
 #### 2.3.2 User Task Matrix
 
@@ -280,16 +282,15 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 Ambos valoran registrar kilometraje y consumo. Jorge Perez analiza y consolida; Darikson Brito ejecuta. La app debe enfocarse en estas tareas compartidas y críticas.</p>
 
 #### 2.3.3 User Journey Mapping (AS-IS) 
+El journey mapping (mapeo del recorrido del usuario) es una técnica que visualiza el proceso completo que un usuario sigue al interactuar con un producto o servicio. Permite identificar las emociones, acciones y puntos de contacto en cada etapa del recorrido, ayudando a mejorar la experiencia del usuario. Su objetivo es entender mejor las necesidades y desafíos del usuario para optimizar su experiencia.
+A continuacón presentamos las User Journey Mapping para los dos segmentos de nuestro proyecto Coo-box logistic:
+#####  Segmento 1: Gestor de flota
+![Journey Mapping Gestor de Flota](./assets/chapter-02/JourneyMapping_GestorFlota.png)
 
-<p><strong>Jorge Perez - Gerente de Flota</strong><br>
-Etapas: Planificación → Coordinación → Recepción → Consolidación → Análisis → Reporte<br>
-Pains: Pérdida de tiempo, errores, retrasos<br>
-Oportunidades: Automatizar reportes, acceso en tiempo real, validación visual</p>
+##### Segmento 2: Conductor de vehiculos de transporte
 
-<p><strong>Darikson Brito - Conductor</strong><br>
-Etapas: Asignación → Registro manual → Paradas → Entrega → Reporte final → Entrega papeles<br>
-Pains: Olvido, apps lentas, papeleo<br>
-Oportunidades: App simple, geolocalización automática, fotos como evidencia</p>
+![Journey Mapping Conductor](./assets/chapter-02/JourneyMapping_conductor.png)
+
 
 #### 2.3.4. Empathy Mapping
 
