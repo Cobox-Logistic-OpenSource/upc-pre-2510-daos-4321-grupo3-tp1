@@ -473,27 +473,226 @@
 
 ## 3.4 Product Backlog
 
-| # Orden/Priority | User Story ID | Título                                      | Descripción                                                                                               | Story Points (1 / 2 / 3 / 5 / 8) |
-|------------------|----------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------|
-| 1                | US-06          | Consultar entregas pendientes               | Como conductor, quiero ver las entregas asignadas del día, para planificar mi ruta.                     | 8                                |
-| 2                | US-01          | Visualizar rutas asignadas                 | Como gestor, quiero ver las rutas asignadas a cada unidad, para hacer seguimiento efectivo.              | 8                                |
-| 3                | US-09          | Reportar incidente durante entrega         | Como conductor, quiero reportar un incidente, para alertar al gestor y agilizar la solución.             | 8                                |
-| 4                | US-13          | Programar mantenimiento preventivo         | Como gestor, quiero programar mantenimientos regulares, para evitar fallas inesperadas.                 | 8                                |
-| 5                | US-17          | Ver reporte semanal de entregas            | Como gestor, quiero ver un reporte semanal por conductor, para evaluar su rendimiento.                   | 5                                |
-| 6                | US-03          | Registrar disponibilidad de unidad         | Como gestor, quiero marcar una unidad como disponible o en mantenimiento, para gestionar eficientemente. | 5                                |
-| 7                | US-08          | Confirmar inicio de ruta                   | Como conductor, quiero confirmar el inicio de mi ruta, para registrar la hora de salida.                 | 5                                |
-| 8                | US-12          | Visualizar historial de incidencias        | Como gestor, quiero revisar el historial de incidencias pasadas, para tomar decisiones preventivas.      | 5                                |
-| 9                | US-04          | Visualizar historial de movimientos        | Como gestor, quiero ver el historial de movimientos de una unidad, para rastrear sus actividades.        | 5                                |
-|10                | US-16          | Notificación de mantenimiento pendiente    | Como gestor, quiero recibir alertas de mantenimiento próximo, para actuar con anticipación.             | 5                                |
-|11                | US-07          | Visualizar entregas completadas            | Como conductor, quiero ver un historial de entregas completadas, para llevar control de mis actividades. | 5                                |
-|12                | US-10          | Visualizar estado de incidencias           | Como gestor, quiero ver un listado de incidencias activas, para tomar acción rápidamente.                | 5                                |
-|13                | US-14          | Registrar mantenimiento realizado          | Como técnico, quiero registrar el mantenimiento con detalles, para dejar constancia de lo realizado.     | 3                                |
-|14                | US-19          | Comparar rendimiento entre conductores     | Como gestor, quiero comparar eficiencia entre conductores, para fomentar buenas prácticas.               | 3                                |
-|15                | US-05          | Registrar entrega con evidencia            | Como conductor, quiero registrar entregas con foto y firma, para validar su cumplimiento.                | 3                                |
-|16                | US-11          | Filtrar incidencias por gravedad           | Como gestor, quiero filtrar las incidencias según su gravedad, para priorizar las más urgentes.          | 3                                |
-|17                | US-02          | Asignar unidades a rutas                   | Como gestor, quiero asignar unidades de transporte a rutas específicas, para controlar la operación.     | 2                                |
-|18                | US-18          | Ver eficiencia por unidad                  | Como gestor, quiero ver rendimiento por unidad, para tomar decisiones sobre el uso de la flota.          | 2                                |
-|19                | US-15          | Ver próximas fechas de mantenimiento       | Como gestor, quiero ver en un calendario las fechas de mantenimiento, para no olvidar los programados.   | 2                                |
-|20                | US-20          | Visualizar alertas críticas en dashboard   | Como gestor, quiero ver alertas prioritarias en el dashboard, para atender eventos críticos de inmediato.| 1                                |
-
-
+<table>
+    <thead>
+        <tr>
+            <th># Orden</th>
+            <th>User Story ID</th>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>Story Points (1/2/3/5/8)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>US-05</td>
+            <td>Consultar entregas pendientes</td>
+            <td>Como conductor, quiero ver las entregas asignadas del día, para planificar mi ruta.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>US-01</td>
+            <td>Visualizar rutas asignadas</td>
+            <td>Como gestor, quiero ver las rutas asignadas a cada unidad, para hacer seguimiento efectivo.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>US-09</td>
+            <td>Reportar incidente durante entrega</td>
+            <td>Como conductor, quiero reportar un incidente, para alertar al gestor y agilizar la solución.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>US-13</td>
+            <td>Programar mantenimiento preventivo</td>
+            <td>Como gestor, quiero programar mantenimientos regulares, para evitar fallas inesperadas.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>US-17</td>
+            <td>Ver reporte semanal de entregas</td>
+            <td>Como gestor, quiero ver un reporte semanal por conductor, para evaluar su rendimiento.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>US-03</td>
+            <td>Registrar disponibilidad de unidad</td>
+            <td>Como gestor, quiero marcar una unidad como disponible o en mantenimiento, para gestionar eficientemente.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>US-08</td>
+            <td>Confirmar inicio de ruta</td>
+            <td>Como conductor, quiero confirmar el inicio de mi ruta, para registrar la hora de salida.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>US-12</td>
+            <td>Visualizar historial de incidencias</td>
+            <td>Como gestor, quiero revisar el historial de incidencias pasadas, para tomar decisiones preventivas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>US-04</td>
+            <td>Visualizar historial de movimientos</td>
+            <td>Como gestor, quiero ver el historial de movimientos de una unidad, para rastrear sus actividades.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>US-16</td>
+            <td>Notificación de mantenimiento pendiente</td>
+            <td>Como gestor, quiero recibir alertas de mantenimiento próximo, para actuar con anticipación.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>US-07</td>
+            <td>Visualizar entregas completadas</td>
+            <td>Como conductor, quiero ver un historial de entregas completadas, para llevar control de mis actividades.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>US-10</td>
+            <td>Visualizar estado de incidencias</td>
+            <td>Como gestor, quiero ver un listado de incidencias activas, para tomar acción rápidamente.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>US-14</td>
+            <td>Registrar mantenimiento realizado</td>
+            <td>Como técnico, quiero registrar el mantenimiento con detalles, para dejar constancia de lo realizado.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>US-19</td>
+            <td>Comparar rendimiento entre conductores</td>
+            <td>Como gestor, quiero comparar eficiencia entre conductores, para fomentar buenas prácticas.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>US-06</td>
+            <td>Registrar entrega con evidencia</td>
+            <td>Como conductor, quiero registrar entregas con foto y firma, para validar su cumplimiento.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>US-11</td>
+            <td>Filtrar incidencias por gravedad</td>
+            <td>Como gestor, quiero filtrar las incidencias según su gravedad, para priorizar las más urgentes.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>US-02</td>
+            <td>Asignar unidades a rutas</td>
+            <td>Como gestor, quiero asignar unidades de transporte a rutas específicas, para controlar la operación.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>US-18</td>
+            <td>Ver eficiencia por unidad</td>
+            <td>Como gestor, quiero ver rendimiento por unidad, para tomar decisiones sobre el uso de la flota.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>US-15</td>
+            <td>Ver próximas fechas de mantenimiento</td>
+            <td>Como gestor, quiero ver en un calendario las fechas de mantenimiento, para no olvidar los programados.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>US-20</td>
+            <td>Visualizar alertas críticas en dashboard</td>
+            <td>Como gestor, quiero ver alertas prioritarias en el dashboard, para atender eventos críticos de inmediato.</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>US-21</td>
+            <td>Visualizar información de servicio</td>
+            <td>Como visitante, quiero conocer los servicios de gestión de flotas ofrecidos, para evaluar si satisface mis necesidades.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>US-22</td>
+            <td>Registrar solicitud de demo</td>
+            <td>Como visitante, quiero solicitar una demostración del sistema, para conocer la plataforma antes de contratar.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>US-23</td>
+            <td>Visualizar planes y precios</td>
+            <td>Como visitante, quiero conocer los diferentes planes disponibles y sus precios, para seleccionar el más adecuado a mis necesidades.</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>US-24</td>
+            <td>Contactar con soporte</td>
+            <td>Como visitante, quiero contactar con el equipo de soporte, para resolver dudas sobre el servicio.</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>US-25</td>
+            <td>Visualizar casos de éxito</td>
+            <td>Como visitante, quiero ver testimonios y casos de éxito, para evaluar la efectividad del sistema en casos reales.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>TS-01</td>
+            <td>Autenticación API</td>
+            <td>Como desarrollador, quiero implementar un sistema de autenticación JWT, para asegurar el acceso a los endpoints de la API.</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>TS-02</td>
+            <td>Endpoints de unidades</td>
+            <td>Como desarrollador, quiero implementar endpoints CRUD para unidades de transporte, para gestionar la flota desde aplicaciones externas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>TS-03</td>
+            <td>Endpoints de entregas</td>
+            <td>Como desarrollador, quiero implementar endpoints para gestionar entregas, para permitir su registro y consulta desde aplicaciones móviles.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>TS-04</td>
+            <td>Endpoints de incidencias</td>
+            <td>Como desarrollador, quiero implementar endpoints para gestionar incidencias, para facilitar su reporte desde diversas plataformas.</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>TS-05</td>
+            <td>Endpoints de estadísticas</td>
+            <td>Como desarrollador, quiero implementar endpoints para obtener métricas y estadísticas, para facilitar la visualización de reportes.</td>
+            <td>8</td>
+        </tr>
+    </tbody>
+</table>
