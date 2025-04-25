@@ -221,7 +221,7 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 En esta sección se presenta el diseño de software orientado a objetos para OsitoPolar. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
 
 #### 4.7.1. Class Diagrams
-
+![Diagrama_Clases.png](..%2Fassets%2Fchapter-04%2FDiagrama_Clases.png)
 
 #### 4.7.2. Class Dictionary
 
