@@ -198,18 +198,15 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 #### Entrevista 1:
 
-- **Nombres y apellidos:*Daritzon* 
-- **Edad:** 
-- **Distrito:** 
-
-
-
-
-
-- **Inicio:*0:00* 
-- **Duración:*2:50* 
-- **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
-- **Resumen:*Daritzon un conductor de transporte pesado con 10 año de experiencia* 
+- **Nombres y apellidos**: Darikson Brito 
+- **Edad:** 34
+- **Distrito:** Surquillo  
+![Interview-1-segment-2.png](..%2Fassets%2Fchapter-02%2FInterview-1-segment-2.png)
+- **Inicio**: 0:00 
+- **Duración**: 2:50 
+- **URL**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
+- **Resumen**: Daritzon un conductor de transporte pesado con 10 año de experiencia, trabaja en AFE Service SAC, actualmente a Darikson le parece un poco repetitivo el hecho de tener que registrar mediante fotos y formularios largos, extensos que le toman aproximadamente 7 minutos a más llenarlos, todo de manera manual. Al comentarlo nuestra idea a Darikson, le pareció interesante y tiene la iniciativa de poder usar la aplicación, para la tecnología ayudaría a reducir el tiempo en el que hace los registros. Él comenta que sería de gran ayuda la geolocalización porque siempre hace paradas largas. Darikson habla de que sería muy útil de que la aplicación se intuitiva y que automatice estos procesos para que se pueda enfocar más en su trabajo.
+- 
 ---
 #### 2.2.3. Análisis de entrevistas
 
@@ -332,7 +329,7 @@ Oportunidades: App simple, geolocalización automática, fotos como evidencia</p
 
 #### Empresas de transporte con carga
 
-![As-Is Empresas de Transporte de Carga .jpg](../assets/As-Is%20Empresas%20de%20Transporte%20de%20Carga%20.jpg)
+![As-Is Empresas de Transporte de Carga .jpg](..%2Fassets%2Fchapter-02%2FAs-Is%20Empresas%20de%20Transporte%20de%20Carga%20.jpg)
 
 #### Conductores de unidades de carga
 
