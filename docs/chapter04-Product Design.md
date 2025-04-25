@@ -1,7 +1,8 @@
 ## Capítulo IV: Product Design <a id="c4"></a>
 
 ### 4.1. Style Guidelines
- A continuación, se especificará los parámetros implementados en la estructura del proyecto.
+ A conti
+ nuación, se especificará los parámetros implementados en la estructura del proyecto.
 #### 4.1.1. General Style Guidelines
 **Brand Overview**
 
@@ -208,6 +209,26 @@ Equipo Técnico - Co-Box Logistics</p>
 ## 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
+
+![Inicio_Sesion_Wireframes.jpg](../assets/chapter-04/Inicio_Sesion_Wireframes.jpg)
+
+
+![Servicios_Wireframes.jpg](../assets/chapter-04/Servicios_Wireframes.jpg)
+
+
+![Hojas_Rutas_Wireframes.jpg](../assets/chapter-04/Hojas_Rutas_Wireframes.jpg)
+
+
+![Registro_Combustible_Wireframe.jpg](../assets/chapter-04/Registro_Combustible_Wireframe.jpg)
+
+
+![Editar_Registros_Wireframes.jpg](../assets/chapter-04/Editar_Registros_Wireframes.jpg)
+
+
+![Programaciones_Wireframes.jpg](../assets/chapter-04/Programaciones_Wireframes.jpg)
+
+
+![Gestion_Usuarios_Wireframes.jpg](../assets/chapter-04/Gestion_Usuarios_Wireframes.jpg)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
