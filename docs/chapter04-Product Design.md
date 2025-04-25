@@ -213,6 +213,21 @@ Equipo Técnico - Co-Box Logistics</p>
 
 #### 4.4.3. Web Applications Mock-ups
 
+![Inicio_Sesion.jpg](../assets/chapter-04/Inicio_Sesion.jpg)
+
+![Servicios.jpg](../assets/chapter-04/Servicios.jpg)
+
+![Gestion_Usuarios.jpg](../assets/chapter-04/Gestion_Usuarios.jpg)
+
+![Editar_Registros.jpg](../assets/chapter-04/Editar_Registros.jpg)
+
+![Hoja_Rutas.jpg](../assets/chapter-04/Hoja_Rutas.jpg)
+
+![Programaciones.jpg](../assets/chapter-04/Programaciones.jpg)
+
+![Reportes_Vehiculos.jpg](../assets/chapter-04/Reportes_Vehiculos.jpg)
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
