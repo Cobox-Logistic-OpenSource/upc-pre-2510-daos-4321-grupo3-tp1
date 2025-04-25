@@ -215,7 +215,13 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ### 2.3.5. As-is Scenario Mapping.
 
-![As Is tobe Scenario Mapping.jpg](../assets/chapter-02/As%20Is%20tobe%20Scenario%20Mapping.jpg)
+#### Empresas de transporte con carga
+
+![As-Is Empresas de Transporte de Carga .jpg](../assets/As-Is%20Empresas%20de%20Transporte%20de%20Carga%20.jpg)
+
+#### Conductores de unidades de carga
+
+![As-Is Conductores de Unidades de Carga.jpg](../assets/chapter-02/As-Is%20Conductores%20de%20Unidades%20de%20Carga.jpg)
 
 ### 2.4. Ubiquitous Language.
 
