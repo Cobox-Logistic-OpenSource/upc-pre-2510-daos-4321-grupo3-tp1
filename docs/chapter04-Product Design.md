@@ -204,6 +204,7 @@ Equipo Técnico - Co-Box Logistics</p>
 Link: https://www.figma.com/board/NOCvTeeofZ6i7wW7jL5dPH/Website-wireframe?node-id=0-1&t=YJqe72ztOTy3aPbx-1
 
 #### 4.3.2. Landing Page Mockup
+![landingpage_prototype.png](..%2Fassets%2Fchapter-04%2Flandingpage_prototype.png)
 
 
 ## 4.4. Web Applications UX/UI Design
