@@ -226,7 +226,7 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-
+![Container_Diagram.png](..%2Fassets%2Fchapter-04%2FContainer_Diagram.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
