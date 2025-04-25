@@ -377,7 +377,17 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 
 
 # Conclusiones
+- La planificación previa es clave para el desarrollo estructurado del sistema:
+Durante el proceso se evidenció la necesidad de una coordinación anticipada entre las áreas de diseño, desarrollo y análisis de usuarios para alinear correctamente la funcionalidad con las necesidades reales del público objetivo.
 
+- Se requiere mayor tiempo de organización interna para segmentar correctamente:
+La diferenciación entre gerentes de flota y conductores permitió establecer flujos específicos para cada uno, lo cual resalta la importancia de organizar sesiones de trabajo más detalladas por segmento antes de definir la arquitectura de información final.
+
+- Los sistemas jerárquicos y secuenciales mejoran la experiencia del usuario:
+La combinación de ambos tipos de organización facilita una navegación más intuitiva, lo que contribuye directamente a una mayor adopción por parte de los usuarios y a un uso más eficiente de la plataforma.
+
+- El diseño centrado en el usuario es esencial para aplicaciones en campo:
+Particularmente en el caso de los conductores, se concluye que los flujos deben ser extremadamente simples, directos y visuales, ya que los usuarios interactúan en contextos de movilidad y bajo presión de tiempo.
 # Anexos
 
 Video TB1: 
