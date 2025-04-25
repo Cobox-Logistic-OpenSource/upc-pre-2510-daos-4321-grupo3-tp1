@@ -225,10 +225,124 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 #### 4.7.2. Class Dictionary
 
+<h3>Usuario</h3>
+<p><strong>Descripción:</strong> Clase base que representa a cualquier usuario del sistema.</p>
+<p><strong>Atributos:</strong></p>
+<ul>
+  <li><code>id</code>: Identificador único del usuario</li>
+  <li><code>nombre</code>, <code>apellido</code>, <code>email</code>, <code>telefono</code></li>
+  <li><code>password</code>: Contraseña encriptada</li>
+  <li><code>tipo</code>: Tipo de usuario (Gestor, Conductor, Técnico)</li>
+  <li><code>fechaCreacion</code>, <code>activo</code></li>
+</ul>
+<p><strong>Métodos:</strong></p>
+<ul>
+  <li><code>autenticar()</code>: Verifica credenciales</li>
+  <li><code>actualizarPerfil()</code>: Actualiza información personal</li>
+</ul>
+
+<h3>Gestor</h3>
+<p><strong>Descripción:</strong> Usuario que administra la flota.</p>
+<ul>
+  <li><strong>Atributo:</strong> <code>cargo</code></li>
+  <li><strong>Métodos:</strong> <code>asignarRuta()</code>, <code>generarReporte()</code>, <code>visualizarDashboard()</code></li>
+</ul>
+
+<h3>Conductor</h3>
+<p><strong>Descripción:</strong> Usuario que ejecuta rutas y registra entregas.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>licencia</code>, <code>categoria</code>, <code>fechaVencimientoLicencia</code>, <code>disponible</code></li>
+  <li><strong>Métodos:</strong> <code>iniciarRuta()</code>, <code>finalizarRuta()</code>, <code>reportarIncidencia()</code>, <code>registrarEntrega()</code></li>
+</ul>
+
+<h3>Técnico</h3>
+<p><strong>Descripción:</strong> Encargado del mantenimiento de vehículos.</p>
+<ul>
+  <li><strong>Atributo:</strong> <code>especialidad</code></li>
+  <li><strong>Método:</strong> <code>registrarMantenimiento()</code></li>
+</ul>
+
+<h3>Vehículo</h3>
+<p><strong>Descripción:</strong> Representa un vehículo de la flota.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>placa</code>, <code>marca</code>, <code>modelo</code>, <code>anio</code>, <code>tipo</code>, <code>capacidadCarga</code>, <code>capacidadTanque</code>, <code>estado</code>, <code>kilometrajeActual</code>, <code>ultimoMantenimiento</code>, <code>activo</code></li>
+  <li><strong>Métodos:</strong> <code>actualizarKilometraje()</code>, <code>cambiarEstado()</code></li>
+</ul>
+
+<h3>Ruta</h3>
+<p><strong>Descripción:</strong> Trayecto planificado entre dos puntos.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>origen</code>, <code>destino</code>, <code>distancia</code>, <code>fechaProgramada</code>, <code>estado</code>, <code>consumoEstimado</code></li>
+  <li><strong>Métodos:</strong> <code>actualizarEstado()</code>, <code>calcularEficiencia()</code></li>
+</ul>
+
+<h3>Servicio</h3>
+<p><strong>Descripción:</strong> Representa una operación logística completa.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>fechaCreacion</code>, <code>fechaInicio</code>, <code>fechaFin</code>, <code>estado</code>, <code>observaciones</code></li>
+  <li><strong>Métodos:</strong> <code>iniciarServicio()</code>, <code>finalizarServicio()</code>, <code>calcularDuracion()</code></li>
+</ul>
+
+<h3>Entrega</h3>
+<p><strong>Descripción:</strong> Envío de mercancía a un cliente.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>cliente</code>, <code>direccion</code>, <code>referencia</code>, <code>fechaProgramada</code>, <code>fechaEntrega</code>, <code>estado</code>, <code>observaciones</code>, <code>pesoTotal</code></li>
+  <li><strong>Métodos:</strong> <code>actualizarEstado()</code>, <code>validarEntrega()</code></li>
+</ul>
+
+<h3>RegistroKilometraje</h3>
+<p><strong>Descripción:</strong> Lectura del odómetro.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>kilometrajeInicial</code>, <code>kilometrajeFinal</code>, <code>fecha</code></li>
+  <li><strong>Método:</strong> <code>calcularDistancia()</code></li>
+</ul>
+
+<h3>RegistroCombustible</h3>
+<p><strong>Descripción:</strong> Registro de cargas de combustible.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>cantidad</code>, <code>precioUnitario</code>, <code>total</code>, <code>tipoCombustible</code>, <code>fecha</code>, <code>estacionServicio</code></li>
+  <li><strong>Métodos:</strong> <code>validarRegistro()</code>, <code>calcularRendimiento()</code></li>
+</ul>
+
+<h3>Incidencia</h3>
+<p><strong>Descripción:</strong> Reporte de problema o evento inesperado.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>tipo</code>, <code>descripcion</code>, <code>fechaReporte</code>, <code>gravedad</code>, <code>estado</code></li>
+  <li><strong>Métodos:</strong> <code>actualizarEstado()</code>, <code>asignarResponsable()</code></li>
+</ul>
+
+<h3>Mantenimiento</h3>
+<p><strong>Descripción:</strong> Registro de acciones de mantenimiento.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>tipo</code>, <code>fechaProgramada</code>, <code>fechaRealizada</code>, <code>descripcion</code>, <code>costo</code>, <code>estado</code></li>
+  <li><strong>Métodos:</strong> <code>actualizarEstado()</code>, <code>notificarProximidad()</code></li>
+</ul>
+
+<h3>Evidencia</h3>
+<p><strong>Descripción:</strong> Archivo que sirve como prueba de acción (foto, firma, etc.).</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>tipo</code>, <code>url</code>, <code>fecha</code>, <code>latitud</code>, <code>longitud</code></li>
+  <li><strong>Método:</strong> <code>validarEvidencia()</code></li>
+</ul>
+
+<h3>Reporte</h3>
+<p><strong>Descripción:</strong> Documento generado para análisis.</p>
+<ul>
+  <li><strong>Atributos:</strong> <code>id</code>, <code>tipo</code>, <code>fechaInicio</code>, <code>fechaFin</code>, <code>formato</code></li>
+  <li><strong>Métodos:</strong> <code>generarReporteEficiencia()</code>, <code>generarReporteEntregas()</code>, <code>exportarReporte()</code></li>
+</ul>
+
+<h3>Dashboard</h3>
+<p><strong>Descripción:</strong> Panel con indicadores clave.</p>
+<ul>
+  <li><strong>Atributo:</strong> <code>id</code></li>
+  <li><strong>Métodos:</strong> <code>obtenerIndicadores()</code>, <code>obtenerAlertasCriticas()</code>, <code>actualizarDatos()</code></li>
+</ul>
 
 
 ### 4.8. Database Design
 
-![Diagrama_DB.png](..%2Fassets%2Fchapter-04%2FDiagrama_DB.png)
+
 
 #### 4.8.1. Database Diagram
+![Diagrama_DB.png](..%2Fassets%2Fchapter-04%2FDiagrama_DB.png)
