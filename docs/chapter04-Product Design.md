@@ -200,7 +200,8 @@ Equipo Técnico - Co-Box Logistics</p>
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
-
+![landing_wireframe.png](..%2Fassets%2Fchapter-04%2Flanding_wireframe.png)
+Link: https://www.figma.com/board/NOCvTeeofZ6i7wW7jL5dPH/Website-wireframe?node-id=0-1&t=YJqe72ztOTy3aPbx-1
 
 #### 4.3.2. Landing Page Mockup
 
