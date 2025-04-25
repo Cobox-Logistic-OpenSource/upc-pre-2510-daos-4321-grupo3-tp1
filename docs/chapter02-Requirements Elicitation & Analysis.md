@@ -246,26 +246,12 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 </ul>
 
 ### 2.3. Needfinding
-
 #### 2.3.1 User Personas.
+#####  User Persona Jorge Perez
+assets/chapter-02/UserPersona_Jorge_Perez.png
 
-<p><strong>User Persona 1: Jorge Perez</strong><br>
-Rol: Gerente de Flota<br>
-Edad: 44 años<br>
-Educación: Técnico en logística<br>
-Objetivos: Reducir costos, automatizar reportes, mejorar trazabilidad<br>
-Frustraciones: Consolidar manualmente, falta de visibilidad<br>
-Comportamiento: Analiza semanalmente, busca eficiencia<br>
-Tecnología: Excel intermedio, WhatsApp</p>
-
-<p><strong>User Persona 2: Darikson Brito</strong><br>
-Rol: Conductor de camión<br>
-Edad: 34 años<br>
-Educación: Secundaria completa<br>
-Objetivos: Cumplir rutas, evitar reclamos, reportar fácil<br>
-Frustraciones: Apps lentas, sin señal, sistemas complejos<br>
-Comportamiento: Rutinario, cumple objetivos<br>
-Tecnología: Celular básico, WhatsApp, cámara</p>
+##### User Persona Darikson Brito
+assets/chapter-02/UserPersona_Darikson_Brito.png
 
 #### 2.3.2 User Task Matrix
 
