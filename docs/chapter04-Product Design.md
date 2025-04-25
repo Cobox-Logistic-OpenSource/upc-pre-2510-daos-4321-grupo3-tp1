@@ -212,21 +212,15 @@ Equipo Técnico - Co-Box Logistics</p>
 
 ![Inicio_Sesion_Wireframes.jpg](../assets/chapter-04/Inicio_Sesion_Wireframes.jpg)
 
-
 ![Servicios_Wireframes.jpg](../assets/chapter-04/Servicios_Wireframes.jpg)
-
 
 ![Hojas_Rutas_Wireframes.jpg](../assets/chapter-04/Hojas_Rutas_Wireframes.jpg)
 
-
 ![Registro_Combustible_Wireframe.jpg](../assets/chapter-04/Registro_Combustible_Wireframe.jpg)
-
 
 ![Editar_Registros_Wireframes.jpg](../assets/chapter-04/Editar_Registros_Wireframes.jpg)
 
-
 ![Programaciones_Wireframes.jpg](../assets/chapter-04/Programaciones_Wireframes.jpg)
-
 
 ![Gestion_Usuarios_Wireframes.jpg](../assets/chapter-04/Gestion_Usuarios_Wireframes.jpg)
 
