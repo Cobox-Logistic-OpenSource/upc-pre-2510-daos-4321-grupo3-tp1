@@ -248,11 +248,11 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 ### 2.3. Needfinding
 #### 2.3.1 User Personas.
 #####  User Persona: Jorge Perez
-![User Persona Jorge Perez](assets/chapter-02/UserPersona_Jorge_Perez.png)
+![UserPersona_Jorge_Perez.png](..assets/chapter-02/UserPersona_Jorge_Perez.png)
 
 ##### User Persona: Darikson Brito
 
-![User Persona Darikson Brito](assets/chapter-02/UserPersona_Darikson_Brito.png)
+![UserPersona_DariksonBrito.png](..assets/chapter-02/UserPersona_Darikson_Brito.png)
 
 #### 2.3.2 User Task Matrix
 
