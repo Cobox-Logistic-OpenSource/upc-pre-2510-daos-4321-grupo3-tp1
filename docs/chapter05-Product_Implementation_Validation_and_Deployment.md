@@ -367,50 +367,6 @@ una de las tareas identificadas para el sprint.
 
 
 
-### 5.3.1. Sprint 2
-
-### 5.3.1.1. Sprint Planning 2
-
-### 5.3.1.2. Sprint Backlog 2
-
-
-
-### 5.3.1.3. Development Evidence for Sprint Review
-
-
-### 5.3.1.4. Testing Suite Evidence for Sprint Review
-
-
-### 5.3.1.6. Services Documentation Evidence for Sprint Review
-
-
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-### 5.2.1.8. Team Collaboration Insights during Sprint
-
-
-
-### Sprint 3
-
-### 5.3.1.1. Sprint Planning 3
-
-### 5.3.1.2. Sprint Backlog 3
-
-
-### 5.3.1.3. Development Evidence for Sprint Review
-
-### 5.3.1.4. Testing Suite Evidence for Sprint Review
-
-
-### 5.3.1.5. Execution Evidence for Sprint Review
-
-### 5.3.1.6. Services Documentation Evidence for Sprint Review
-
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-
-### 5.2.1.8. Team Collaboration Insights during Sprint
-
 
 
 # Conclusiones
