@@ -119,7 +119,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 </table>
 
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+#### 2.1.2. Estrategias y tácticas frente a competidores
 
 - **Flujo Unificado:** CO-BOX LOGISTICS unifica foto del odómetro, consumo de combustible y geolocalización en un solo proceso, a diferencia de Sendd (solo última milla) o Samsara (requiere hardware extra).
 
@@ -211,9 +211,124 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 - **URL:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218590_upc_edu_pe/EeowBqDCW8RPqnFuulcCqSAB4DtZaLiMFMjBa4YxkOBf5Q?e=zeqcf2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D* 
 - **Resumen:*Daritzon un conductor de transporte pesado con 10 año de experiencia* 
 ---
+#### 2.2.3. Análisis de entrevistas
 
+<h3>Segmento 1: Gerentes/Encargados de Flota</h3>
+<ul>
+  <li><strong>Rol principal:</strong> 100% coordina rutas, supervisa unidades y gestiona costos.</li>
+  <li><strong>Vehículos:</strong> Entre 8 y 12, camiones de 3 a 30 toneladas.</li>
+  <li><strong>Herramientas actuales:</strong> 100% usa Excel y papel, 66% con WhatsApp.</li>
+  <li><strong>Problemas comunes:</strong>
+    <ul>
+      <li>100%: discrepancias en consumo y kilometraje.</li>
+      <li>66%: dificultad para consolidar datos.</li>
+      <li>66%: falta de información en tiempo real.</li>
+    </ul>
+  </li>
+  <li><strong>Frecuencia de revisión:</strong> 33% semanal, 33% quincenal, 33% mensual.</li>
+  <li><strong>Datos deseados automáticamente:</strong> 100% desea kilometraje, consumo, tiempos, evidencia digital.</li>
+  <li><strong>Adopción de app:</strong> 100% dispuesto si es intuitiva y económica.</li>
+  <li><strong>Presupuesto estimado:</strong> S/ 30 - S/ 150 por unidad mensual.</li>
+</ul>
 
-### 2.3.5. As-is Scenario Mapping.
+<h3>Segmento 2: Conductores de Vehículos de Carga</h3>
+<ul>
+  <li><strong>Experiencia:</strong> 100% con más de 10 años.</li>
+  <li><strong>Registro actual:</strong> 100% usa cuadernos.</li>
+  <li><strong>Uso de fotos/apps:</strong> 100% ha usado WhatsApp ocasionalmente.</li>
+  <li><strong>Dificultades:</strong>
+    <ul>
+      <li>66%: olvido o apuro.</li>
+      <li>100%: apps lentas o sin señal.</li>
+    </ul>
+  </li>
+  <li><strong>Preferencia:</strong> App simple, pocos botones, uso offline.</li>
+  <li><strong>Geolocalización:</strong> 100% la considera útil.</li>
+  <li><strong>Incentivos:</strong> 66% menciona bonos; 100% quiere facilidad de uso.</li>
+</ul>
+
+### 2.3. Needfinding
+
+#### 2.3.1 User Personas.
+
+<p><strong>User Persona 1: Jorge Perez</strong><br>
+Rol: Gerente de Flota<br>
+Edad: 44 años<br>
+Educación: Técnico en logística<br>
+Objetivos: Reducir costos, automatizar reportes, mejorar trazabilidad<br>
+Frustraciones: Consolidar manualmente, falta de visibilidad<br>
+Comportamiento: Analiza semanalmente, busca eficiencia<br>
+Tecnología: Excel intermedio, WhatsApp</p>
+
+<p><strong>User Persona 2: Darikson Brito</strong><br>
+Rol: Conductor de camión<br>
+Edad: 50 años<br>
+Educación: Secundaria completa<br>
+Objetivos: Cumplir rutas, evitar reclamos, reportar fácil<br>
+Frustraciones: Apps lentas, sin señal, sistemas complejos<br>
+Comportamiento: Rutinario, cumple objetivos<br>
+Tecnología: Celular básico, WhatsApp, cámara</p>
+
+#### 2.3.2 User Task Matrix
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Tareas / User Persona</th>
+    <th>Jorge Perez (Frec.)</th>
+    <th>Jorge Perez (Imp.)</th>
+    <th>Darikson Brito (Frec.)</th>
+    <th>Darikson Brito (Imp.)</th>
+  </tr>
+  <tr><td>Planificar rutas</td><td>Alta</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Coordinar entregas</td><td>Alta</td><td>Alta</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Registrar kilometraje</td><td>Media</td><td>Alta</td><td>Alta</td><td>Alta</td></tr>
+  <tr><td>Reportar combustible</td><td>Media</td><td>Alta</td><td>Alta</td><td>Alta</td></tr>
+  <tr><td>Consolidar datos</td><td>Alta</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Generar reportes</td><td>Media</td><td>Alta</td><td>N/A</td><td>N/A</td></tr>
+  <tr><td>Foto del odómetro</td><td>Baja</td><td>Media</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Usar apps móviles</td><td>Media</td><td>Alta</td><td>Baja</td><td>Alta</td></tr>
+  <tr><td>Verificar entregas</td><td>Alta</td><td>Alta</td><td>Media</td><td>Alta</td></tr>
+  <tr><td>Atender reclamos</td><td>Media</td><td>Alta</td><td>Baja</td><td>Media</td></tr>
+</table>
+
+<p><strong>Conclusiones:</strong><br>
+Ambos valoran registrar kilometraje y consumo. Jorge Perez analiza y consolida; Darikson Brito ejecuta. La app debe enfocarse en estas tareas compartidas y críticas.</p>
+
+#### 2.3.3 User Journey Mapping (AS-IS) 
+
+<p><strong>Jorge Perez - Gerente de Flota</strong><br>
+Etapas: Planificación → Coordinación → Recepción → Consolidación → Análisis → Reporte<br>
+Pains: Pérdida de tiempo, errores, retrasos<br>
+Oportunidades: Automatizar reportes, acceso en tiempo real, validación visual</p>
+
+<p><strong>Darikson Brito - Conductor</strong><br>
+Etapas: Asignación → Registro manual → Paradas → Entrega → Reporte final → Entrega papeles<br>
+Pains: Olvido, apps lentas, papeleo<br>
+Oportunidades: App simple, geolocalización automática, fotos como evidencia</p>
+
+#### 2.3.4. Empathy Mapping
+
+<p><strong>Jorge Perez (Gerente de Flota)</strong><br>
+  
+<strong>Piensa y siente:</strong> Presión por eficiencia<br>
+<strong>Dice:</strong> "Necesito todo consolidado rápido"<br>
+<strong>Hace:</strong> Usa Excel, revisa papeles<br>
+<strong>Escucha:</strong> Clientes, gerencia<br>
+<strong>Ve:</strong> Papeles desordenados<br>
+<strong>Pains:</strong> Sin trazabilidad, pérdida de tiempo<br>
+<strong>Gains:</strong> App que consolide y reduzca papeleo</p>
+
+<p><strong>Darikson Brito (Conductor)</strong><br>
+  
+<strong>Piensa y siente:</strong> Quiere soluciones simples<br>
+<strong>Dice:</strong> "Que sea rápido y simple"<br>
+<strong>Hace:</strong> Maneja, anota, toma fotos<br>
+<strong>Escucha:</strong> Jefes, quejas<br>
+<strong>Ve:</strong> Poco tiempo, rutas complicadas<br>
+<strong>Pains:</strong> Apps que fallan, presión<br>
+<strong>Gains:</strong> App sencilla, botones grandes, offline</p>
+
+#### 2.3.5. As-is Scenario Mapping.
 
 #### Empresas de transporte con carga
 
@@ -223,7 +338,7 @@ Sendd es una startup peruana de última milla que permite programar rutas de ent
 
 ![As-Is Conductores de Unidades de Carga.jpg](../assets/chapter-02/As-Is%20Conductores%20de%20Unidades%20de%20Carga.jpg)
 
-### 2.4. Ubiquitous Language.
+#### 2.4. Ubiquitous Language.
 
 Ubiquitous Language es un término que se refiere a un lenguaje común y compartido que se utiliza entre los miembros de un equipo de desarrollo de software, así como con los usuarios finales y otros interesados en el proyecto. Este lenguaje ayuda a asegurar que todos tengan una comprensión clara y coherente de los conceptos, términos y procesos involucrados en el desarrollo del software. A continuación, se presenta la lista de términos que se utilizarán en el desarrollo de la plataforma Co-box Logistic, junto con sus definiciones y ejemplos de uso.
 
