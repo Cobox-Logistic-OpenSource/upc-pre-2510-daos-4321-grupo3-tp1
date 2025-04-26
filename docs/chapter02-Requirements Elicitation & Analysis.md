@@ -301,7 +301,7 @@ A continuación los mapas de empatía de los dos segmento de nuestro proyecto Co
 
 #### Segmento: Conductor de vehiculos de transporte
 
-![Empathy Map Conductor](https://raw.githubusercontent.com/Cobox-Logistic-OpenSource/upc-pre-2510-daos-4321-grupo3-tp1/feature/chapter-02/assets/chapter-02/Empatymapping_SegmentoConductor.png)
+![EmpatyMapping_SegmentoConductores](https://hackmd.io/_uploads/B1JQDotkeg.png)
 
 
 #### 2.3.5. As-is Scenario Mapping.
