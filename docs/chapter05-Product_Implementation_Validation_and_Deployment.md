@@ -176,16 +176,17 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
-    <td colspan="8">
+    <td colspan="8"> La meta de este Sprint 1 es la correcta planificación del desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario  
+
 </td>
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Velocity</td>
-    <td colspan="8"></td>
+    <td colspan="8">velocity 7</td> 
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"></td>
+    <td colspan="8">8 story points</td>
 </tr>
 </table>
 
