@@ -213,53 +213,53 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="1">US01</td>
-    <td colspan="2"></td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">UT01</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Stephano Espinoza</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US02</td>
-    <td colspan="2"></td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">UT02</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Joseph Rodriguez</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US02</td>
-    <td colspan="2"></td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">UT03</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Implementar estilos en la landing page</td>
+    <td colspan="3">Implementar los estilos y diseño de la landing page.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Angel Berrospi</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US03</td>
-    <td colspan="2"></td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">UT04</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Implementar funcionalidad en la landing page</td>
+    <td colspan="3">Implementar la funcionalidad de la landing page</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Raul Sanchez</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US04</td>
-    <td colspan="2"></td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
     <td colspan="1">UT05</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Añadir imágenes de alta calidad</td>
+    <td colspan="3">Incorporar nuevas imágenes de alta calidad que sean relevantes para el contenido.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Merly Salon</td>
+    <td colspan="1">Done</td>
 </tr>
 </table>
 
