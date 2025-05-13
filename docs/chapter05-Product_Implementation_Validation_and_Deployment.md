@@ -444,7 +444,7 @@ Aquí se presentará la documentación relacionada con los servicios de atenció
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
-![SprintBacklog1](https://github.com/user-attachments/assets/a30b2936-1e7d-4f61-8efd-93f1ea32e30a)
+![SprintBacklog2](https://github.com/user-attachments/assets/6166521d-5254-49b6-a631-cd8993250e14)
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
