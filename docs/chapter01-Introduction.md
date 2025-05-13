@@ -128,7 +128,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1 | 07/04/2025 | - Angel Guillermo Berrospi  <br> - Joseph Pablo Rodriguez Parco <br> - Stephano Jose Espinoza Cueva <br> - Merly Salon Puerta <br> - Raul Sanchez Cruz | Se han incluído los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 07/04/2025 | - Angel Guillermo Berrospi  <br> - Joseph Pablo Rodriguez Parco <br> - Stephano Jose Espinoza Cueva <br> - Merly Salon Puerta <br> - Raul Sanchez Cruz | Se han incluído los siguientes puntos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
+| TP1 | 13/05/2025 | - Angel Guillermo Berrospi  <br> - Joseph Pablo Rodriguez Parco <br> - Stephano Jose Espinoza Cueva <br> - Merly Salon Puerta <br> - Raul Sanchez Cruz |<br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.2.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
 
 # **Project Report Collaboration Insights**
 
