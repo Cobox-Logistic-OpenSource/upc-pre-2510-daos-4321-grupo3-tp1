@@ -290,6 +290,167 @@ En esta sección, se describirá el proceso de implementación del software en u
 Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
 ![f87e7986-5421-4c6c-bb39-8f4bb6fc00a7](https://github.com/user-attachments/assets/fc7a14bc-12c5-4e3a-abde-87ecd5bf8997)
 
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-04-24</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">9:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Merly Salon Puerta</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Stephano Espinoza, Joseph Rodriguez, Raul Sanchez Cruz, Merly Salon Puerta, Angel Berrospi Marin</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteó el desarrollo y mejora de la Landing page antes de subirse a un repositorio.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades pero finalmente uno se encargó de la integración de los idiomas y finalmente decidieron subir el landing mejor en el último día</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8"> La meta de este Sprint 1 es la correcta planificación del desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">velocity 7</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">8 story points</td>
+</tr>
+</table>
+
+### 5.2.1.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US01</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Stephano Espinoza</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Joseph Rodriguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">Implementar estilos en la landing page</td>
+    <td colspan="3">Implementar los estilos y diseño de la landing page.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Angel Berrospi</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">Implementar funcionalidad en la landing page</td>
+    <td colspan="3">Implementar la funcionalidad de la landing page</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Raul Sanchez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Añadir imágenes de alta calidad</td>
+    <td colspan="3">Incorporar nuevas imágenes de alta calidad que sean relevantes para el contenido.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Merly Salon</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Aquí se proporcionará información sobre las pruebas realizadas durante el sprint. Se detallarán las pruebas funcionales, de rendimiento y de seguridad que se han llevado a cabo para garantizar la calidad del software. Se incluirán los resultados de estas pruebas y cualquier corrección o mejora realizada en función de los hallazgos.
+![Implementation1](https://github.com/user-attachments/assets/25160783-2ca9-456c-9441-3b55d0f06b02)
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
+![Implementation5](https://github.com/user-attachments/assets/877cb95a-b75b-45f3-b18f-77e70e0f8a01)
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
+![Implementation6](https://github.com/user-attachments/assets/fd6b280d-2fff-4203-91c2-66640a471205)
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+![SprintBacklog1](https://github.com/user-attachments/assets/a30b2936-1e7d-4f61-8efd-93f1ea32e30a)
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
+![f87e7986-5421-4c6c-bb39-8f4bb6fc00a7](https://github.com/user-attachments/assets/fc7a14bc-12c5-4e3a-abde-87ecd5bf8997)
+
 
 
 
