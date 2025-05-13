@@ -29,7 +29,7 @@
 | EP-LP    | Sitio web estático              | Como visitante quiero conocer los servicios y características de la plataforma para decidir si contratar.|
 | EP-API   | API RESTful                     | Como desarrollador quiero acceder a los servicios mediante endpoints para integrarlos con otras aplicaciones. |
 ### User Stories 
-<table>
+ <table>
     <thead>
         <tr>
             <th>Epic/Story ID</th>
@@ -42,426 +42,427 @@
     <tbody>
         <tr>
             <td>US-01</td>
-            <td>Visualizar rutas asignadas</td>
-            <td>Como gestor, quiero ver las rutas asignadas a cada unidad, para hacer seguimiento efectivo.</td>
+            <td>Consultar rutas asignadas</td>
+            <td>Como gestor, quiero conocer las rutas asignadas a cada unidad para supervisar su cumplimiento operativo.</td>
             <td>
-                Escenario 01: Visualización de rutas asignadas<br>
-                Dado que el gestor accede al panel de unidades<br>
-                Cuando selecciona una unidad específica<br>
-                Entonces visualiza la ruta asignada con detalles de horarios y destinos.
+                Escenario 01: Consulta de rutas<br>
+                Dado que el gestor accede al módulo de unidades<br>
+                Cuando consulta una unidad específica<br>
+                Entonces el sistema proporciona la información de ruta, horarios y destinos.
             </td>
             <td>EP01</td>
         </tr>
         <tr>
             <td>US-02</td>
             <td>Asignar unidades a rutas</td>
-            <td>Como gestor, quiero asignar unidades de transporte a rutas específicas, para controlar la operación.</td>
+            <td>Como gestor, quiero asignar unidades de transporte a rutas específicas para controlar la operación.</td>
             <td>
-                Escenario 01: Asignación de unidades a rutas<br>
-                Dado que el gestor ha ingresado a la sección de asignaciones<br>
+                Escenario 01: Asignación de unidad<br>
+                Dado que el gestor accede a la sección de asignaciones<br>
                 Cuando selecciona una ruta y una unidad disponible<br>
-                Entonces el sistema guarda la asignación y muestra confirmación.
+                Entonces el sistema registra la asignación correctamente.
             </td>
             <td>EP01</td>
         </tr>
         <tr>
             <td>US-03</td>
-            <td>Registrar disponibilidad de unidad</td>
-            <td>Como gestor, quiero marcar una unidad como disponible o en mantenimiento, para gestionar eficientemente.</td>
+            <td>Actualizar estado de unidad</td>
+            <td>Como gestor, quiero marcar una unidad como disponible o en mantenimiento para una mejor gestión.</td>
             <td>
-                Escenario 01: Actualización de estado de unidad<br>
-                Dado que el gestor selecciona una unidad en el panel<br>
-                Cuando cambia su estado a "disponible" o "en mantenimiento"<br>
-                Entonces el nuevo estado se refleja en el sistema.
+                Escenario 01: Actualización de estado<br>
+                Dado que el gestor selecciona una unidad<br>
+                Cuando modifica su estado a disponible o en mantenimiento<br>
+                Entonces el sistema refleja correctamente el nuevo estado.
             </td>
             <td>EP01</td>
         </tr>
         <tr>
             <td>US-04</td>
-            <td>Visualizar historial de movimientos</td>
-            <td>Como gestor, quiero ver el historial de movimientos de una unidad, para rastrear sus actividades.</td>
+            <td>Consultar historial de movimientos</td>
+            <td>Como gestor, quiero revisar el historial de movimientos de una unidad para rastrear su actividad.</td>
             <td>
-                Escenario 01: Consulta del historial de una unidad<br>
+                Escenario 01: Revisión de historial<br>
                 Dado que el gestor accede al detalle de una unidad<br>
-                Cuando entra a "historial de movimientos"<br>
-                Entonces se muestra una tabla con fechas y tipos de movimiento.
+                Cuando consulta el historial de movimientos<br>
+                Entonces el sistema entrega una lista con fechas y tipos de movimiento.
             </td>
             <td>EP01</td>
         </tr>
         <tr>
             <td>US-05</td>
-            <td>Consultar entregas pendientes</td>
-            <td>Como conductor, quiero ver las entregas asignadas del día, para planificar mi ruta.</td>
+            <td>Consultar entregas asignadas</td>
+            <td>Como conductor, quiero conocer las entregas asignadas del día para planificar mi jornada.</td>
             <td>
-                Escenario 01: Lista de entregas pendientes<br>
-                Dado que el conductor inicia sesión<br>
-                Cuando accede a su panel principal<br>
-                Entonces visualiza las entregas asignadas con hora, cliente y dirección.
+                Escenario 01: Revisión de entregas<br>
+                Dado que el conductor ha iniciado sesión<br>
+                Cuando accede a su información de entregas<br>
+                Entonces el sistema presenta las entregas con datos de hora, cliente y dirección.
             </td>
             <td>EP02</td>
         </tr>
         <tr>
             <td>US-06</td>
-            <td>Registrar entrega con evidencia</td>
-            <td>Como conductor, quiero registrar entregas con foto y firma, para validar su cumplimiento.</td>
+            <td>Registrar evidencia de entrega</td>
+            <td>Como conductor, quiero dejar constancia de entregas realizadas mediante evidencia para validarlas.</td>
             <td>
                 Escenario 01: Registro de entrega<br>
-                Dado que el conductor finaliza una entrega<br>
-                Cuando adjunta la foto y solicita la firma del cliente<br>
-                Entonces el sistema guarda la evidencia con fecha, hora y ubicación.
+                Dado que se finaliza una entrega<br>
+                Cuando se adjunta la información de evidencia<br>
+                Entonces el sistema almacena los datos con fecha, hora y ubicación.
             </td>
             <td>EP02</td>
         </tr>
         <tr>
             <td>US-07</td>
-            <td>Visualizar entregas completadas</td>
-            <td>Como conductor, quiero ver un historial de entregas completadas, para llevar control de mis actividades.</td>
+            <td>Revisar entregas completadas</td>
+            <td>Como conductor, quiero consultar mis entregas pasadas para llevar control de mis actividades.</td>
             <td>
-                Escenario 01: Consulta de entregas completadas<br>
-                Dado que el conductor accede a "historial de entregas"<br>
+                Escenario 01: Consulta de historial<br>
+                Dado que el conductor accede al módulo de entregas<br>
                 Cuando filtra por fecha<br>
-                Entonces se muestra lista con información relevante.
+                Entonces el sistema muestra la información correspondiente.
             </td>
             <td>EP02</td>
         </tr>
         <tr>
             <td>US-08</td>
-            <td>Confirmar inicio de ruta</td>
-            <td>Como conductor, quiero confirmar el inicio de mi ruta, para registrar la hora de salida.</td>
+            <td>Registrar inicio de ruta</td>
+            <td>Como conductor, quiero confirmar el inicio de mi ruta para registrar la hora de salida.</td>
             <td>
-                Escenario 01: Inicio de ruta<br>
-                Dado que el conductor tiene entregas asignadas<br>
-                Cuando presiona el botón "Iniciar ruta"<br>
-                Entonces se registra la hora de inicio en el sistema.
+                Escenario 01: Registro de inicio<br>
+                Dado que el conductor cuenta con entregas asignadas<br>
+                Cuando inicia su jornada<br>
+                Entonces el sistema registra la hora de salida.
             </td>
             <td>EP02</td>
         </tr>
         <tr>
             <td>US-09</td>
-            <td>Reportar incidente durante entrega</td>
-            <td>Como conductor, quiero reportar un incidente, para alertar al gestor y agilizar la solución.</td>
+            <td>Reportar incidente</td>
+            <td>Como conductor, quiero reportar incidentes durante la entrega para que el gestor pueda intervenir.</td>
             <td>
-                Escenario 01: Reporte de incidente<br>
-                Dado que el conductor encuentra un problema durante la entrega<br>
-                Cuando selecciona "reportar incidente" y adjunta evidencia<br>
-                Entonces el sistema notifica al gestor.
+                Escenario 01: Registro de incidente<br>
+                Dado que ocurre un problema en ruta<br>
+                Cuando se reporta con evidencia<br>
+                Entonces el sistema notifica al responsable correspondiente.
             </td>
             <td>EP03</td>
         </tr>
         <tr>
             <td>US-10</td>
-            <td>Visualizar estado de incidencias</td>
-            <td>Como gestor, quiero ver un listado de incidencias activas, para tomar acción rápidamente.</td>
+            <td>Consultar incidencias</td>
+            <td>Como gestor, quiero revisar las incidencias activas para tomar decisiones rápidas.</td>
             <td>
-                Escenario 01: Consulta de incidencias<br>
-                Dado que hay incidencias registradas<br>
-                Cuando accede al panel de incidencias<br>
-                Entonces se muestran con unidad, fecha y gravedad.
+                Escenario 01: Revisión de incidencias<br>
+                Dado que existen incidencias registradas<br>
+                Cuando el gestor accede a la información<br>
+                Entonces el sistema presenta datos como unidad, fecha y gravedad.
             </td>
             <td>EP03</td>
         </tr>
         <tr>
             <td>US-11</td>
-            <td>Filtrar incidencias por gravedad</td>
-            <td>Como gestor, quiero filtrar las incidencias según su gravedad, para priorizar las más urgentes.</td>
+            <td>Filtrar incidencias</td>
+            <td>Como gestor, quiero filtrar las incidencias por gravedad para priorizar acciones.</td>
             <td>
-                Escenario 01: Filtro por gravedad<br>
-                Dado que existen múltiples incidencias<br>
-                Cuando selecciona el filtro "Alta", "Media" o "Baja"<br>
-                Entonces solo se muestran las incidencias del tipo seleccionado.
+                Escenario 01: Aplicación de filtros<br>
+                Dado que hay múltiples incidencias<br>
+                Cuando se selecciona un nivel de gravedad<br>
+                Entonces el sistema presenta solo las que corresponden al filtro.
             </td>
             <td>EP03</td>
         </tr>
         <tr>
             <td>US-12</td>
-            <td>Visualizar historial de incidencias</td>
-            <td>Como gestor, quiero revisar el historial de incidencias pasadas, para tomar decisiones preventivas.</td>
+            <td>Revisar historial de incidencias</td>
+            <td>Como gestor, quiero analizar incidencias pasadas para tomar decisiones preventivas.</td>
             <td>
-                Escenario 01: Consulta de historial<br>
-                Dado que el gestor accede a la sección histórica<br>
+                Escenario 01: Consulta histórica<br>
+                Dado que el gestor accede a registros anteriores<br>
                 Cuando filtra por fechas<br>
-                Entonces se muestra una tabla con detalles y estado de resolución.
+                Entonces el sistema muestra detalles y estado de resolución.
             </td>
             <td>EP03</td>
         </tr>
         <tr>
             <td>US-13</td>
-            <td>Programar mantenimiento preventivo</td>
-            <td>Como gestor, quiero programar mantenimientos regulares, para evitar fallas inesperadas.</td>
+            <td>Programar mantenimiento</td>
+            <td>Como gestor, quiero definir mantenimientos periódicos para evitar fallos imprevistos.</td>
             <td>
-                Escenario 01: Programación de mantenimiento<br>
+                Escenario 01: Planificación<br>
                 Dado que el gestor selecciona una unidad<br>
-                Cuando asigna una frecuencia (semanal, mensual)<br>
-                Entonces se genera una programación en el calendario.
+                Cuando define la frecuencia de mantenimiento<br>
+                Entonces el sistema agenda las fechas correspondientes.
             </td>
             <td>EP04</td>
         </tr>
         <tr>
             <td>US-14</td>
-            <td>Registrar mantenimiento realizado</td>
-            <td>Como técnico, quiero registrar el mantenimiento con detalles, para dejar constancia de lo realizado.</td>
+            <td>Registrar mantenimiento</td>
+            <td>Como técnico, quiero documentar el mantenimiento realizado para dejar constancia.</td>
             <td>
-                Escenario 01: Registro de mantenimiento<br>
-                Dado que el técnico completó el mantenimiento<br>
-                Cuando llena el formulario con partes revisadas<br>
-                Entonces se guarda en el historial de la unidad.
+                Escenario 01: Registro<br>
+                Dado que el mantenimiento fue realizado<br>
+                Cuando se documentan las acciones realizadas<br>
+                Entonces el sistema almacena el informe en el historial.
             </td>
             <td>EP04</td>
         </tr>
         <tr>
             <td>US-15</td>
-            <td>Ver próximas fechas de mantenimiento</td>
-            <td>Como gestor, quiero ver en un calendario las fechas de mantenimiento, para no olvidar los programados.</td>
+            <td>Consultar mantenimientos próximos</td>
+            <td>Como gestor, quiero conocer las próximas fechas de mantenimiento para planificar con anticipación.</td>
             <td>
-                Escenario 01: Calendario de mantenimientos<br>
+                Escenario 01: Consulta de agenda<br>
                 Dado que hay mantenimientos programados<br>
-                Cuando accede al calendario<br>
-                Entonces se visualizan las fechas por unidad.
+                Cuando se accede al calendario<br>
+                Entonces el sistema muestra las fechas por unidad.
             </td>
             <td>EP04</td>
         </tr>
         <tr>
             <td>US-16</td>
-            <td>Notificación de mantenimiento pendiente</td>
-            <td>Como gestor, quiero recibir alertas de mantenimiento próximo, para actuar con anticipación.</td>
+            <td>Recibir alertas de mantenimiento</td>
+            <td>Como gestor, quiero recibir alertas de mantenimiento próximo para evitar retrasos.</td>
             <td>
-                Escenario 01: Alerta de mantenimiento<br>
-                Dado que se acerca la fecha programada<br>
+                Escenario 01: Generación de alertas<br>
+                Dado que se acerca una fecha de mantenimiento<br>
                 Cuando faltan 3 días<br>
-                Entonces el sistema envía una notificación automática.
+                Entonces el sistema envía una alerta automática.
             </td>
             <td>EP04</td>
         </tr>
         <tr>
             <td>US-17</td>
-            <td>Ver reporte semanal de entregas</td>
-            <td>Como gestor, quiero ver un reporte semanal por conductor, para evaluar su rendimiento.</td>
+            <td>Generar reporte semanal</td>
+            <td>Como gestor, quiero ver reportes semanales de entregas para evaluar el rendimiento del personal.</td>
             <td>
-                Escenario 01: Reporte semanal<br>
-                Dado que la semana ha finalizado<br>
-                Cuando entra al módulo de reportes<br>
-                Entonces ve cantidad de entregas y cumplimiento por conductor.
+                Escenario 01: Visualización de reporte<br>
+                Dado que ha concluido la semana<br>
+                Cuando se accede al módulo de reportes<br>
+                Entonces el sistema presenta estadísticas de cumplimiento por conductor.
             </td>
             <td>EP05</td>
         </tr>
         <tr>
             <td>US-18</td>
-            <td>Ver eficiencia por unidad</td>
-            <td>Como gestor, quiero ver rendimiento por unidad, para tomar decisiones sobre el uso de la flota.</td>
+            <td>Evaluar eficiencia por unidad</td>
+            <td>Como gestor, quiero conocer el rendimiento por unidad para tomar decisiones de uso.</td>
             <td>
-                Escenario 01: Eficiencia por unidad<br>
-                Dado que se registran entregas y kilometraje<br>
-                Cuando accede al análisis de flota<br>
-                Entonces ve el rendimiento individual por unidad.
+                Escenario 01: Evaluación de rendimiento<br>
+                Dado que hay datos de entregas y kilometraje<br>
+                Cuando se accede al análisis<br>
+                Entonces el sistema presenta eficiencia por unidad.
             </td>
             <td>EP05</td>
         </tr>
         <tr>
             <td>US-19</td>
-            <td>Comparar rendimiento entre conductores</td>
-            <td>Como gestor, quiero comparar eficiencia entre conductores, para fomentar buenas prácticas.</td>
+            <td>Comparar desempeño entre conductores</td>
+            <td>Como gestor, quiero comparar a los conductores para fomentar mejores prácticas.</td>
             <td>
-                Escenario 01: Ranking de conductores<br>
-                Dado que hay varios registros de entregas<br>
-                Cuando selecciona periodo de comparación<br>
-                Entonces se muestra ranking con métricas clave.
+                Escenario 01: Comparación de desempeño<br>
+                Dado que existen registros suficientes<br>
+                Cuando se selecciona un periodo<br>
+                Entonces el sistema genera un ranking con métricas relevantes.
             </td>
             <td>EP05</td>
         </tr>
         <tr>
             <td>US-20</td>
-            <td>Visualizar alertas críticas en dashboard</td>
-            <td>Como gestor, quiero ver alertas prioritarias en el dashboard, para atender eventos críticos de inmediato.</td>
+            <td>Monitorear alertas críticas</td>
+            <td>Como gestor, quiero visualizar alertas críticas del sistema para tomar acciones inmediatas.</td>
             <td>
                 Escenario 01: Visualización de alertas<br>
-                Dado que existen eventos críticos<br>
-                Cuando accede al dashboard<br>
-                Entonces se muestran alertas con prioridad destacada.
+                Dado que existen alertas activas<br>
+                Cuando se accede al panel principal<br>
+                Entonces el sistema muestra las de mayor prioridad destacadas.
             </td>
             <td>EP05</td>
         </tr>
-        <tr>
+                <tr>
             <td>US-21</td>
-            <td>Visualizar información de servicio</td>
-            <td>Como visitante, quiero conocer los servicios de gestión de flotas ofrecidos, para evaluar si satisface mis necesidades.</td>
+            <td>Consultar información de servicios</td>
+            <td>Como visitante, quiero conocer los servicios disponibles para evaluar si se adecuan a mis necesidades.</td>
             <td>
-                Escenario 01: Acceso a información de servicios<br>
-                Dado que un visitante accede al landing page<br>
-                Cuando desplaza hacia la sección de servicios<br>
-                Entonces visualiza descripciones claras e ilustrativas de cada servicio ofrecido.<br><br>
-                Escenario 02: Visualización de características<br>
-                Dado que el visitante está en la sección de servicios<br>
-                Cuando hace clic en un servicio específico<br>
-                Entonces se despliega información detallada con sus características.
+                Escenario 01: Acceso a información<br>
+                Dado que el visitante accede al sitio web<br>
+                Cuando recorre la sección informativa<br>
+                Entonces el sistema presenta descripciones claras de los servicios.<br><br>
+                Escenario 02: Consulta de características<br>
+                Dado que se requiere mayor detalle<br>
+                Cuando se solicita información específica<br>
+                Entonces el sistema entrega las características correspondientes.
             </td>
             <td>EP-LP</td>
         </tr>
         <tr>
             <td>US-22</td>
-            <td>Registrar solicitud de demo</td>
-            <td>Como visitante, quiero solicitar una demostración del sistema, para conocer la plataforma antes de contratar.</td>
+            <td>Solicitar demostración</td>
+            <td>Como visitante, quiero registrar interés en una demostración para conocer mejor el sistema.</td>
             <td>
                 Escenario 01: Registro exitoso<br>
-                Dado que el visitante completa el formulario de solicitud de demo<br>
-                Cuando envía el formulario con datos válidos<br>
-                Entonces recibe una confirmación y es notificado del próximo paso.<br><br>
-                Escenario 02: Error en formulario<br>
-                Dado que el visitante completa el formulario con datos inválidos<br>
-                Cuando intenta enviar el formulario<br>
-                Entonces se muestran mensajes de error específicos.
+                Dado que se ingresan datos válidos<br>
+                Cuando se envía la solicitud<br>
+                Entonces el sistema confirma la recepción y describe el siguiente paso.<br><br>
+                Escenario 02: Registro inválido<br>
+                Dado que se ingresan datos incompletos<br>
+                Cuando se procesa la solicitud<br>
+                Entonces el sistema informa los errores identificados.
             </td>
             <td>EP-LP</td>
         </tr>
         <tr>
             <td>US-23</td>
-            <td>Visualizar planes y precios</td>
-            <td>Como visitante, quiero conocer los diferentes planes disponibles y sus precios, para seleccionar el más adecuado a mis necesidades.</td>
+            <td>Consultar planes y precios</td>
+            <td>Como visitante, quiero comparar los planes disponibles para elegir el que mejor se adapta.</td>
             <td>
                 Escenario 01: Comparación de planes<br>
-                Dado que el visitante navega a la sección de precios<br>
-                Cuando visualiza la tabla comparativa<br>
-                Entonces puede ver claramente las características y precios de cada plan.<br><br>
-                Escenario 02: Selección de plan<br>
-                Dado que el visitante está revisando los planes<br>
-                Cuando hace clic en "Seleccionar Plan"<br>
-                Entonces es redirigido al formulario de registro con el plan preseleccionado.
+                Dado que se accede a la sección de precios<br>
+                Cuando se consulta la información<br>
+                Entonces el sistema presenta detalles y precios de cada plan.<br><br>
+                Escenario 02: Elección de plan<br>
+                Dado que se elige un plan<br>
+                Cuando se solicita continuar<br>
+                Entonces el sistema redirige a la sección correspondiente con el plan predefinido.
             </td>
             <td>EP-LP</td>
         </tr>
         <tr>
             <td>US-24</td>
-            <td>Contactar con soporte</td>
-            <td>Como visitante, quiero contactar con el equipo de soporte, para resolver dudas sobre el servicio.</td>
+            <td>Solicitar asistencia</td>
+            <td>Como visitante, quiero contactar con el soporte para resolver dudas sobre el servicio.</td>
             <td>
-                Escenario 01: Envío de mensaje<br>
-                Dado que el visitante completa el formulario de contacto<br>
-                Cuando envía un mensaje<br>
-                Entonces recibe confirmación de recepción con tiempo estimado de respuesta.<br><br>
-                Escenario 02: Visualización de preguntas frecuentes<br>
-                Dado que el visitante accede a la sección de contacto<br>
-                Cuando revisa la sección de preguntas frecuentes<br>
-                Entonces puede encontrar respuestas a consultas comunes.
+                Escenario 01: Envío de consulta<br>
+                Dado que se redacta un mensaje de contacto<br>
+                Cuando se envía la solicitud<br>
+                Entonces el sistema registra la consulta y comunica un tiempo estimado de respuesta.<br><br>
+                Escenario 02: Acceso a preguntas frecuentes<br>
+                Dado que se buscan respuestas previas<br>
+                Cuando se accede a la sección informativa<br>
+                Entonces el sistema presenta las preguntas frecuentes disponibles.
             </td>
             <td>EP-LP</td>
         </tr>
         <tr>
             <td>US-25</td>
-            <td>Visualizar casos de éxito</td>
-            <td>Como visitante, quiero ver testimonios y casos de éxito, para evaluar la efectividad del sistema en casos reales.</td>
+            <td>Consultar casos de éxito</td>
+            <td>Como visitante, quiero revisar casos de éxito para conocer experiencias reales con el sistema.</td>
             <td>
-                Escenario 01: Exploración de testimonios<br>
-                Dado que el visitante accede a la sección de casos de éxito<br>
-                Cuando selecciona un caso específico<br>
-                Entonces ve detalles completos con métricas y resultados.<br><br>
-                Escenario 02: Filtrado por industria<br>
-                Dado que el visitante está en la sección de casos de éxito<br>
-                Cuando filtra por tipo de industria<br>
-                Entonces se muestran solo los casos relacionados con esa industria.
+                Escenario 01: Revisión de testimonios<br>
+                Dado que se accede a la sección de experiencias<br>
+                Cuando se selecciona un caso<br>
+                Entonces el sistema presenta el contenido completo con resultados.<br><br>
+                Escenario 02: Filtrado de casos<br>
+                Dado que se requiere una vista segmentada<br>
+                Cuando se filtra por industria<br>
+                Entonces el sistema muestra solo los casos relacionados.
             </td>
             <td>EP-LP</td>
         </tr>
         <tr>
             <td>TS-01</td>
             <td>Autenticación API</td>
-            <td>Como desarrollador, quiero implementar un sistema de autenticación JWT, para asegurar el acceso a los endpoints de la API.</td>
+            <td>Como desarrollador, quiero implementar autenticación mediante JWT para proteger el acceso a la API.</td>
             <td>
-                Escenario 01: Autenticación exitosa<br>
-                Dado que se envían credenciales válidas al endpoint de login<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve un token JWT con código 200.<br><br>
+                Escenario 01: Autenticación válida<br>
+                Dado que se envían credenciales correctas<br>
+                Cuando la API las procesa<br>
+                Entonces retorna un token JWT y código 200.<br><br>
                 Escenario 02: Autenticación fallida<br>
-                Dado que se envían credenciales inválidas<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve un mensaje de error con código 401.<br><br>
+                Dado que las credenciales son incorrectas<br>
+                Cuando se procesa la solicitud<br>
+                Entonces se retorna error con código 401.<br><br>
                 Escenario 03: Token expirado<br>
-                Dado que un token ha expirado<br>
-                Cuando se realiza una petición autenticada con ese token<br>
-                Entonces la API responde con código 401 y mensaje de expiración.
+                Dado que se utiliza un token vencido<br>
+                Cuando se realiza una solicitud<br>
+                Entonces el sistema retorna error 401 por expiración.
             </td>
             <td>EP-API</td>
         </tr>
         <tr>
             <td>TS-02</td>
-            <td>Endpoints de unidades</td>
-            <td>Como desarrollador, quiero implementar endpoints CRUD para unidades de transporte, para gestionar la flota desde aplicaciones externas.</td>
+            <td>Gestión de unidades vía API</td>
+            <td>Como desarrollador, quiero usar endpoints CRUD para gestionar unidades desde aplicaciones externas.</td>
             <td>
-                Escenario 01: Obtención de unidades<br>
-                Dado que se realiza una petición GET autenticada a /api/units<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve un array de unidades con código 200.<br><br>
-                Escenario 02: Creación de unidad<br>
-                Dado que se envía una petición POST a /api/units con datos válidos<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces crea la unidad y devuelve código 201.<br><br>
+                Escenario 01: Consulta de unidades<br>
+                Dado que se realiza una solicitud GET autorizada<br>
+                Cuando se consulta /api/units<br>
+                Entonces la API retorna la lista de unidades.<br><br>
+                Escenario 02: Registro de unidad<br>
+                Dado que se proporciona información válida<br>
+                Cuando se envía una solicitud POST<br>
+                Entonces la API registra la unidad y retorna código 201.<br><br>
                 Escenario 03: Datos inválidos<br>
-                Dado que se envía una petición POST con datos incorrectos<br>
+                Dado que la solicitud contiene errores<br>
                 Cuando la API valida los datos<br>
-                Entonces devuelve un mensaje de error con código 400.
+                Entonces retorna error con código 400.
             </td>
             <td>EP-API</td>
         </tr>
         <tr>
             <td>TS-03</td>
-            <td>Endpoints de entregas</td>
-            <td>Como desarrollador, quiero implementar endpoints para gestionar entregas, para permitir su registro y consulta desde aplicaciones móviles.</td>
+            <td>Gestión de entregas vía API</td>
+            <td>Como desarrollador, quiero usar endpoints para registrar y consultar entregas desde apps móviles.</td>
             <td>
                 Escenario 01: Registro de entrega<br>
-                Dado que se envía una petición POST a /api/deliveries con datos válidos<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces crea el registro y devuelve el ID con código 201.<br><br>
-                Escenario 02: Listado de entregas por conductor<br>
-                Dado que se realiza una petición GET a /api/deliveries con filtro de conductor<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve solo las entregas del conductor especificado.<br><br>
+                Dado que se proporciona información válida<br>
+                Cuando se envía una solicitud POST<br>
+                Entonces la API guarda la entrega y retorna su ID.<br><br>
+                Escenario 02: Consulta de entregas<br>
+                Dado que se desea consultar entregas por conductor<br>
+                Cuando se usa un filtro adecuado<br>
+                Entonces la API retorna los resultados correspondientes.<br><br>
                 Escenario 03: Actualización de estado<br>
-                Dado que se envía una petición PATCH a /api/deliveries/{id}/status<br>
-                Cuando la API actualiza el estado<br>
-                Entonces devuelve la entrega actualizada con código 200.
+                Dado que se requiere cambiar el estado de una entrega<br>
+                Cuando se envía una solicitud PATCH<br>
+                Entonces el estado se actualiza correctamente.
             </td>
             <td>EP-API</td>
         </tr>
         <tr>
             <td>TS-04</td>
-            <td>Endpoints de incidencias</td>
-            <td>Como desarrollador, quiero implementar endpoints para gestionar incidencias, para facilitar su reporte desde diversas plataformas.</td>
+            <td>Gestión de incidencias vía API</td>
+            <td>Como desarrollador, quiero implementar endpoints para reportar y resolver incidencias del sistema.</td>
             <td>
                 Escenario 01: Reporte de incidencia<br>
-                Dado que se envía una petición POST a /api/incidents con datos válidos<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces registra la incidencia y notifica a los usuarios correspondientes.<br><br>
-                Escenario 02: Listado de incidencias activas<br>
-                Dado que se realiza una petición GET a /api/incidents con filtro "active=true"<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve solo las incidencias no resueltas.<br><br>
-                Escenario 03: Resolución de incidencia<br>
-                Dado que se envía una petición PATCH a /api/incidents/{id}/resolve<br>
-                Cuando la API actualiza el estado<br>
-                Entonces marca la incidencia como resuelta y notifica al reportante.
+                Dado que se ingresa información válida<br>
+                Cuando se envía a /api/incidents<br>
+                Entonces la API registra el incidente y notifica.<br><br>
+                Escenario 02: Consulta de incidencias activas<br>
+                Dado que se requiere información filtrada<br>
+                Cuando se usa active=true<br>
+                Entonces la API devuelve solo las incidencias pendientes.<br><br>
+                Escenario 03: Cierre de incidencia<br>
+                Dado que se resuelve un incidente<br>
+                Cuando se actualiza su estado<br>
+                Entonces la API marca como resuelta y notifica al interesado.
             </td>
             <td>EP-API</td>
         </tr>
         <tr>
             <td>TS-05</td>
-            <td>Endpoints de estadísticas</td>
-            <td>Como desarrollador, quiero implementar endpoints para obtener métricas y estadísticas, para facilitar la visualización de reportes.</td>
+            <td>Consulta de estadísticas vía API</td>
+            <td>Como desarrollador, quiero acceder a estadísticas desde la API para integrarlas en reportes externos.</td>
             <td>
-                Escenario 01: Obtención de estadísticas<br>
-                Dado que se realiza una petición GET a /api/stats con parámetros de filtrado<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve los datos agregados según los filtros especificados.<br><br>
+                Escenario 01: Consulta de métricas<br>
+                Dado que se realiza una solicitud GET con filtros<br>
+                Cuando la API procesa los parámetros<br>
+                Entonces retorna los datos agregados.<br><br>
                 Escenario 02: Exportación de reportes<br>
-                Dado que se realiza una petición GET a /api/reports/export con formato especificado<br>
-                Cuando la API genera el reporte<br>
-                Entonces devuelve un archivo en el formato solicitado (CSV, PDF).<br><br>
-                Escenario 03: Estadísticas en tiempo real<br>
-                Dado que se realiza una petición GET a /api/stats/realtime<br>
-                Cuando la API procesa la solicitud<br>
-                Entonces devuelve métricas actualizadas en tiempo real.
+                Dado que se solicita un reporte<br>
+                Cuando se indica el formato (CSV, PDF)<br>
+                Entonces la API entrega el archivo correspondiente.<br><br>
+                Escenario 03: Consulta en tiempo real<br>
+                Dado que se requiere información actualizada<br>
+                Cuando se consulta el endpoint de tiempo real<br>
+                Entonces la API entrega datos en vivo.
             </td>
             <td>EP-API</td>
         </tr>
     </tbody>
 </table>
+
 
 ### Gestor de flota
 ![Gestor de flota](https://hackmd.io/_uploads/BJsJjr_Jge.png)
