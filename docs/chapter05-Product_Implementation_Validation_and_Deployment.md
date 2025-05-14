@@ -299,45 +299,45 @@ elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 <table>
 <tr>
-    <th colspan="5">Sprint 1</th>
-    <th colspan="9">Sprint 1</th>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">2025-04-24</td>
+    <td colspan="8">2025-05-14</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
-    <td colspan="8">9:00PM</td>
+    <td colspan="8">3:00PM</td>
   </tr>
   <tr>
     <td colspan="5">Location</td>
     <td colspan="8">Via Meet</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Merly Salon Puerta</td>
+    <td colspan="8">Angel Guillermo Berrospi</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
     <td colspan="8">Stephano Espinoza, Joseph Rodriguez, Raul Sanchez Cruz, Merly Salon Puerta, Angel Berrospi Marin</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint  1 Review Summary</td>
-    <td colspan="8">En esta primera sección se planteó el desarrollo y mejora de la Landing page antes de subirse a un repositorio.</td>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Retrospective Summary</td>
-    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades pero finalmente uno se encargó de la integración de los idiomas y finalmente decidieron subir el landing mejor en el último día</td>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing y finalmente se decidió subir el landing en el último día</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Goal</td>
-    <td colspan="8"> La meta de este Sprint 1 es la correcta planificación del desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario  
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8"> La meta de este Sprint 1 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
 
 </td>
 </tr>
@@ -347,7 +347,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">8 story points</td>
+    <td colspan="8">7 story points</td>
 </tr>
 </table>
 
@@ -356,7 +356,7 @@ una de las tareas identificadas para el sprint.
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 1</th>
+    <th colspan="10">Sprint 2</th>
 </tr>
 <tr>
     <td colspan="3">User Story</td>
@@ -373,52 +373,52 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
 </tr>
 <tr>
-    <td colspan="1">US01</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">UT01</td>
-    <td colspan="2">Crear sección "Acerca de nosotros"</td>
-    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Stephano Espinoza</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">UT02</td>
-    <td colspan="2">Crear sección "Acerca de nosotros"</td>
-    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Joseph Rodriguez</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">UT03</td>
-    <td colspan="2">Implementar estilos en la landing page</td>
-    <td colspan="3">Implementar los estilos y diseño de la landing page.</td>
+    <td colspan="1">US05</td>
+    <td colspan="2">Documentar mejoras en el desarrollo</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Documentar mejoras técnicas"</td>
+    <td colspan="3">Crear una documentación clara sobre decisiones y mejoras implementadas en el desarrollo</td>
     <td colspan="1">3</td>
     <td colspan="2">Angel Berrospi</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">UT04</td>
-    <td colspan="2">Implementar funcionalidad en la landing page</td>
-    <td colspan="3">Implementar la funcionalidad de la landing page</td>
-    <td colspan="1">4</td>
+    <td colspan="1">US06</td>
+    <td colspan="2">Mejorar usabilidad de la landing page</td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Optimizar experiencia de usuario</td>
+    <td colspan="3">Ajustar la estructura visual para mejorar la navegación y accesibilidad.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodriguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US07</td>
+    <td colspan="2">Añadir mejoras en el frontend de la landing</td>
+    <td colspan="1">UT07</td>
+    <td colspan="2">Implementar mejores diseños a la landing page</td>
+    <td colspan="3">Incluir ayudas visuales y mensajes emergentes para guiar al nuevo usuario en la landing.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Stephano Espinoza</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US08</td>
+    <td colspan="2">Mejorar accesibilidad visual de la landing</td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Ajustar contraste y etiquetas</td>
+    <td colspan="3">Aplicar mejoras de accesibilidad como mayor contraste de colores y etiquetas semánticas.</td>
+    <td colspan="1">5</td>
     <td colspan="2">Raul Sanchez</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
-    <td colspan="1">UT05</td>
-    <td colspan="2">Añadir imágenes de alta calidad</td>
-    <td colspan="3">Incorporar nuevas imágenes de alta calidad que sean relevantes para el contenido.</td>
-    <td colspan="1">2</td>
+    <td colspan="1">US09</td>
+    <td colspan="2">Diseño de Documentación</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">Añadir diseños de alta calidad a la documentación</td>
+    <td colspan="3">Incorporar nuevas estructuras, apoyar en la mejora de la documentación y su presentación de alta calidad para que sean relevantes en el contenido.</td>
+    <td colspan="1">3</td>
     <td colspan="2">Merly Salon</td>
     <td colspan="1">Done</td>
 </tr>
