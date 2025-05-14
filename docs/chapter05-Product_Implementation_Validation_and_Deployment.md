@@ -338,7 +338,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Goal</td>
-    <td colspan="8"> La meta de este Sprint 1 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
+    <td colspan="8"> La meta de este Sprint 2 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
 
 </td>
 </tr>
