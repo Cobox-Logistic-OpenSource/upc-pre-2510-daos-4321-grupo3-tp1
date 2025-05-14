@@ -342,7 +342,7 @@ una de las tareas identificadas para el sprint.
 </td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="5">Sprint 2 Velocity</td>
     <td colspan="8">velocity 7</td> 
 </tr>
 <tr>
@@ -351,7 +351,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.1.2. Sprint Backlog 2
+### 5.2.2.2. Sprint Backlog 2
 
 <table>
 <tr>
