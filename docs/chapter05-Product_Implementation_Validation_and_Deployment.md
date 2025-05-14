@@ -493,3 +493,8 @@ Organizacion GitHub:
 
 
 # Bibliografia
+- Angular Team. (2024). *Introduction to Angular*. Recuperado de https://angular.dev/usa  
+- Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley.  
+- Scrum.org. (2023). *The Scrum Guide™*. Recuperado de https://scrumguides.org  
+- AFE Logistics. (2024). *Soluciones para la gestión de flotas y logística*. Recuperado de https://afelogistics.com  
+- Microsoft Learn. (2024). *REST API Design Best Practices*. Recuperado de https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
