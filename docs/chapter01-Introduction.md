@@ -251,6 +251,18 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 **Assumption**: Establecer roles personalizados dentro de la plataforma permitirá un manejo más seguro y eficiente de los datos y procesos.
 #### 1.2.2.2 Lean UX Assumptions
 
+##### Business Assumptions
+- Necesidad principal: Las empresas de transporte y logística requieren una gestión eficiente y tecnológica para mejorar la trazabilidad de sus operaciones.
+- Solución ofrecida: Una plataforma web que centraliza el control logístico con funcionalidades clave como geolocalización en tiempo real, generación automática de reportes, captura de evidencia fotográfica y registro automatizado de kilometraje.
+- Usuarios iniciales: Empresas de transporte que buscan optimizar sus servicios, reducir costos operativos y mejorar la transparencia en entregas.
+- Valor principal para los usuarios: Control total y en tiempo real de sus operaciones logísticas, garantizando eficiencia y confiabilidad.
+- Beneficios adicionales: Reducción de costos innecesarios, optimización de rutas y tiempos de entrega, acceso a indicadores de desempeño y mejora en la planificación operativa.
+- Estrategia de adquisición: Marketing digital dirigido a empresas logísticas, alianzas estratégicas con transportistas, y participación en eventos del sector.
+- Modelo de monetización: Suscripción mensual o anual para el acceso completo a las funcionalidades, además de paquetes premium con reportes avanzados y análisis predictivos.
+- Competencia en el mercado: Softwares genéricos de gestión logística y herramientas de rastreo que no integran la digitalización de procesos clave en una sola plataforma.
+- Ventaja competitiva: Integración de múltiples funcionalidades en un solo sistema, garantizando trazabilidad, transparencia y análisis optimizado en tiempo real.
+- Riesgo principal: Resistencia de empresas tradicionales a adoptar una solución digital o la percepción de la plataforma como un costo adicional en lugar de una inversión en eficiencia.
+  
 ##### Business Outcomes
 - **Reducción de downtime**  
   Disminuir en un 20 % las incidencias críticas de caída de temperatura en los primeros 6 meses, gracias a alertas tempranas y mantenimiento predictivo.
