@@ -274,7 +274,6 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 - Beneficios adicionales: Datos estratégicos para decisiones empresariales, seguridad en la trazabilidad, reducción de errores humanos y mejora en la relación con clientes finales.
 - Riesgo principal para el usuario: Que la plataforma no logre integrarse con sus procesos actuales o que requiera una curva de aprendizaje que afecte su adopción.
 
-
 ##### Business Outcomes
 - **Reducción de downtime**  
   Disminuir en un 20 % las incidencias críticas de caída de temperatura en los primeros 6 meses, gracias a alertas tempranas y mantenimiento predictivo.
@@ -300,6 +299,24 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
   La plataforma agenda automáticamente mantenimientos preventivos basados en patrones de uso real, reduciendo intervenciones de emergencia.
 - **Ahorro energético**  
   Negocios identifican comportamientos anómalos de consumo y reciben alertas para optimizar el rendimiento de sus equipos.
+
+###### Features Assumptions
+
+- Control logístico avanzado
+- Geolocalización en tiempo real de la flota.
+- Registro automático de kilometraje.
+- Captura de evidencia fotográfica en entregas.
+- Automatización y análisis de datos
+- Generación de reportes de desempeño.
+- Indicadores de eficiencia en cada operación.
+- Análisis predictivo basado en datos históricos.
+- Integración y seguridad
+- Compatibilidad con sistemas de gestión de flotas.
+- Protección de datos empresariales.
+- Plataforma accesible desde móviles y escritorio.
+
+
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
