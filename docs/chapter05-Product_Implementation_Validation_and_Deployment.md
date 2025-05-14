@@ -190,7 +190,13 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.1.2. Sprint Backlog 1
+### 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![image](https://github.com/user-attachments/assets/40a67922-811d-4496-b285-115ceff67ca5)
+
+
+### 5.2.1.3. Sprint Backlog 1
 
 <table>
 <tr>
@@ -263,13 +269,8 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.1.4. Development Evidence for Sprint Review
 ![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
-
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
-Aquí se proporcionará información sobre las pruebas realizadas durante el sprint. Se detallarán las pruebas funcionales, de rendimiento y de seguridad que se han llevado a cabo para garantizar la calidad del software. Se incluirán los resultados de estas pruebas y cualquier corrección o mejora realizada en función de los hallazgos.
-![Implementation1](https://github.com/user-attachments/assets/25160783-2ca9-456c-9441-3b55d0f06b02)
-
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
@@ -351,7 +352,12 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.2.2. Sprint Backlog 2
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+![image](https://github.com/user-attachments/assets/85e7f5df-2f58-475a-abac-ff20ec6dbea3)
+
+
+### 5.2.2.3. Sprint Backlog 2
 
 <table>
 <tr>
@@ -424,13 +430,8 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
-### 5.2.2.3. Development Evidence for Sprint Review
+### 5.2.2.4. Development Evidence for Sprint Review
 ![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Aquí se proporcionará información sobre las pruebas realizadas durante el sprint. Se detallarán las pruebas funcionales, de rendimiento y de seguridad que se han llevado a cabo para garantizar la calidad del software. Se incluirán los resultados de estas pruebas y cualquier corrección o mejora realizada en función de los hallazgos.
-![Implementation1](https://github.com/user-attachments/assets/25160783-2ca9-456c-9441-3b55d0f06b02)
-
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
