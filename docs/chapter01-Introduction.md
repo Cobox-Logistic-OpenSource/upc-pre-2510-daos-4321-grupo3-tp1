@@ -262,7 +262,19 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 - Competencia en el mercado: Softwares genéricos de gestión logística y herramientas de rastreo que no integran la digitalización de procesos clave en una sola plataforma.
 - Ventaja competitiva: Integración de múltiples funcionalidades en un solo sistema, garantizando trazabilidad, transparencia y análisis optimizado en tiempo real.
 - Riesgo principal: Resistencia de empresas tradicionales a adoptar una solución digital o la percepción de la plataforma como un costo adicional en lugar de una inversión en eficiencia.
-  
+
+##### User Assumptions
+- ¿Quién es el usuario? Empresas de transporte de carga y logística que buscan mejorar su gestión operativa, reducir costos y aumentar la transparencia en entregas.
+- ¿Dónde encaja en su vida? Se convierte en una herramienta esencial para monitoreo, planificación y toma de decisiones estratégicas dentro de la operación logística.
+- ¿Qué problemas resuelve? Falta de trazabilidad en las operaciones, errores en el registro de entregas, costos ocultos por falta de control y dificultades en la optimización de rutas.
+- ¿Cuándo y cómo se utiliza? Se emplea constantemente en cada etapa del transporte de carga, desde la salida hasta la entrega del producto.
+- ¿Qué características son importantes? Geolocalización en tiempo real, reportes automáticos, control de evidencias fotográficas, integración con sistemas de gestión de flotas y herramientas de análisis predictivo.
+- ¿Cómo debería verse y comportarse? Debe ser intuitivo, visualmente claro y optimizado para el uso en dispositivos móviles y escritorio, asegurando accesibilidad para todo tipo de usuario en el sector.
+- Valor principal para el usuario: Optimización operativa mediante automatización y digitalización, garantizando eficiencia, reducción de costos y mejor control sobre los servicios.
+- Beneficios adicionales: Datos estratégicos para decisiones empresariales, seguridad en la trazabilidad, reducción de errores humanos y mejora en la relación con clientes finales.
+- Riesgo principal para el usuario: Que la plataforma no logre integrarse con sus procesos actuales o que requiera una curva de aprendizaje que afecte su adopción.
+
+
 ##### Business Outcomes
 - **Reducción de downtime**  
   Disminuir en un 20 % las incidencias críticas de caída de temperatura en los primeros 6 meses, gracias a alertas tempranas y mantenimiento predictivo.
