@@ -431,25 +431,34 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.2.4. Development Evidence for Sprint Review
+
 ![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
+
+![image](https://github.com/user-attachments/assets/79acfc5f-6e73-4584-a81b-3c4bc2d479ad)
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
-![Implementation5](https://github.com/user-attachments/assets/877cb95a-b75b-45f3-b18f-77e70e0f8a01)
+
+![image](https://github.com/user-attachments/assets/895aef4b-4816-473f-b73a-0f0227b96c5b)
+
+![image](https://github.com/user-attachments/assets/41865f9a-298a-42a3-9479-6cf1c82aead8)
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
+
 ![Implementation6](https://github.com/user-attachments/assets/fd6b280d-2fff-4203-91c2-66640a471205)
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
 ![SprintBacklog2](https://github.com/user-attachments/assets/6166521d-5254-49b6-a631-cd8993250e14)
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
+
 ![f87e7986-5421-4c6c-bb39-8f4bb6fc00a7](https://github.com/user-attachments/assets/fc7a14bc-12c5-4e3a-abde-87ecd5bf8997)
 
 
