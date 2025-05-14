@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -27,6 +28,24 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+=======
+# Compiled class file
+*.class
+.idea/
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+# IntelliJ IDEA specific files
+*.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/*.iml
+.idea/modules/
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+>>>>>>> origin/feature/chapter-01
 
 ### VS Code ###
 .vscode/
