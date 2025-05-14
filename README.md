@@ -1,21 +1,41 @@
-# Co-box logistic
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-### Descripción de la Startup
+ 
+</head>
+<body>
+  <h1>Co-box Logistic</h1>
 
-<<<<<<< HEAD
-Co-box logistic es una startup innovadora que nace con la visión de transformar y optimizar el sector del transporte de carga, abordando de manera integral las principales problemáticas que enfrentan actualmente las empresas: desde la gestión ineficiente de las entregas, el alto consumo de combustible, hasta la falta de trazabilidad en las operaciones logísticas.
-Nuestra propuesta se centra en el desarrollo de una plataforma web inteligente que permita llevar un control preciso y automatizado de los servicios realizados diariamente. A través de herramientas tecnológicas de vanguardia, Co-box logistic facilita la captura de evidencias clave, como el kilometraje recorrido por las unidades, fotografías al momento de la entrega de pedidos, geolocalización en tiempo real y generación automática de reportes e indicadores de desempeño.
-Gracias a este enfoque, las empresas de transporte y logística podrán tomar decisiones más informadas, reducir costos operativos, mejorar la eficiencia del servicio y garantizar una mayor satisfacción del cliente final. Co-box logistic no solo digitaliza procesos, sino que los potencia, generando valor agregado a cada etapa de la cadena logística.
-En Co-box logistic creemos que la innovación tecnológica es la clave para un transporte más eficiente, transparente y sostenible.
-=======
-Co-box logistic es una plataforma web innovadora diseñada para revolucionar el sector del transporte de carga, ofreciendo una solución integral y tecnológica para la gestión de operaciones logísticas. La aplicación conecta a empresas de transporte con herramientas inteligentes que permiten el control preciso de cada servicio realizado. Entre sus funcionalidades se destacan el registro automatizado del kilometraje, la captura de evidencia fotográfica al momento de las entregas, y la geolocalización en tiempo real. Además, la generación automática de reportes e indicadores de desempeño facilita la toma de decisiones, optimizando la eficiencia operativa y reduciendo costos innecesarios.
+  <h2>Descripción de la Startup</h2>
+  <p><strong>Co-box Logistic</strong> es una startup innovadora que nace con la visión de transformar y optimizar el sector del transporte de carga, abordando de manera integral las principales problemáticas que enfrentan actualmente las empresas: gestión ineficiente de entregas, alto consumo de combustible y falta de trazabilidad en las operaciones logísticas.</p>
 
-Esta solución está pensada tanto para compañías de transporte que buscan mejorar la trazabilidad de sus operaciones, como para empresas logísticas que requieren de un control detallado y eficiente de sus servicios. Al digitalizar y potenciar cada etapa del proceso, Co-box logistic asegura una mayor transparencia y calidad en la entrega de productos, contribuyendo a fortalecer la confianza del cliente final.
+  <p>Nuestra propuesta se centra en el desarrollo de una <strong>plataforma web inteligente</strong> que permite un control preciso y automatizado de los servicios realizados diariamente. Gracias a herramientas tecnológicas de vanguardia, Co-box Logistic facilita:</p>
 
-Misión: Nuestra misión en Co-box logistic es transformar la gestión del transporte de carga a través de soluciones tecnológicas inteligentes, permitiendo a nuestros clientes operar de manera más eficiente, reducir costos y mejorar la trazabilidad de sus servicios.
+  <ul>
+    <li>Registro automatizado del kilometraje recorrido por las unidades.</li>
+    <li>Captura de evidencia fotográfica en el momento de la entrega.</li>
+    <li>Geolocalización en tiempo real.</li>
+    <li>Generación automática de reportes e indicadores de desempeño.</li>
+  </ul>
 
-Visión: Aspiramos a ser líderes en la innovación logística, impulsando un futuro en el que el transporte de carga sea cada vez más transparente, eficiente y sostenible, expandiendo nuestra presencia a nivel nacional e internacional.
->>>>>>> origin/feature/chapter-01
+  <p>Con este enfoque, las empresas de transporte y logística pueden tomar decisiones más informadas, reducir costos operativos, mejorar la eficiencia del servicio y garantizar una mayor satisfacción del cliente final.</p>
 
+  <p>Co-box Logistic no solo <strong>digitaliza los procesos logísticos</strong>, sino que los <strong>potencia</strong>, generando valor agregado en cada etapa de la cadena de transporte.</p>
 
+  <h2>¿A quién está dirigido?</h2>
+  <p>Esta solución está pensada tanto para:</p>
+  <ul>
+    <li><strong>Compañías de transporte</strong> que buscan mejorar la trazabilidad de sus operaciones.</li>
+    <li><strong>Empresas logísticas</strong> que requieren un control detallado, seguro y eficiente de sus servicios.</li>
+  </ul>
 
+  <h2>Misión</h2>
+  <p>Transformar la gestión del transporte de carga mediante soluciones tecnológicas inteligentes, permitiendo a nuestros clientes operar de forma más eficiente, reducir costos y mejorar la trazabilidad de sus servicios.</p>
+
+  <h2>Visión</h2>
+  <p>Ser líderes en innovación logística, impulsando un futuro donde el transporte de carga sea cada vez más <strong>transparente, eficiente y sostenible</strong>, con presencia nacional e internacional.</p>
+</body>
+</html>
