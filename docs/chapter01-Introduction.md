@@ -150,7 +150,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 # Capítulo 1: Introducción
 
-## 1.1 Startup Profil
+## 1.1 Startup Profile
+
+El perfil de la startup es un pilar fundamental para articular la identidad y la hoja de ruta de una nueva empresa. Este apartado desglosa no solo su ambición y los principios que rigen sus acciones, sino que también clarifica su oferta única y cómo se distingue en el panorama competitivo.
+En esta sección, se detallarán los componentes cruciales que definen el carácter de la startup, incluyendo su génesis, los impulsos que motivaron su fundación, el desafío específico que se propone abordar y cómo su perspectiva innovadora le otorga una ventaja competitiva.
+Asimismo, se explorarán sus objetivos a corto, mediano y largo plazo, junto con las tácticas empleadas para su expansión y consolidación en su nicho de mercado. Entender estos aspectos es vital para apreciar el potencial inherente al perfil de la startup y la influencia que puede ejercer en su ecosistema.
 
 ### 1.1.1 Descripción de la Startup
 
@@ -195,7 +199,7 @@ Aspiramos a ser líderes en la innovación logística, impulsando un futuro en e
 | **Código del Estudiante** | U201518942                                                                                        |
 | **Carrera**               | Ingeniería de Software                                                                            |
 | **Descripción**           | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). A lo largo del tiempo, desarrollé un fuerte interés por el desarrollo de software y la creación de aplicaciones. Actualmente trabajo en implementación de data centers y soluciones en la nube. |
-| Foto                      |    ![Integrante-Raul-Sanchez.jpeg](../assets/chapter-01/Integrante-Raul-Sanchez.jpeg)                                       |
+| Foto                      |    ![Integrante-Raul-Sanchez.jpeg](../assets/chapter-01/Integrante-Raul-Sanchez.jpg)                                       |
 
 
 | **Integrante**            | **Angel Berrospi Marin**                                                                  |
