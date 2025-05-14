@@ -300,7 +300,7 @@ Nuestro mayor desafío es lograr que las empresas adopten esta solución digital
 - **Ahorro energético**  
   Negocios identifican comportamientos anómalos de consumo y reciben alertas para optimizar el rendimiento de sus equipos.
 
-###### Features Assumptions
+##### Features Assumptions
 
 - Control logístico avanzado
 - Geolocalización en tiempo real de la flota.
