@@ -109,7 +109,7 @@
     -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
     -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
     -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
-    - [5.2.2. Sprint 1](#52x-sprints)
+    - [5.2.2. Sprint 2](#52x-sprints)
     -  [5.2.2.1. Sprint Planning 2](#5211-Sprint-Planning1)
     -  [5.2.2.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
     -  [5.2.2.3. Sprint Backlog 2](#5213-Sprint-Backlog-1)
