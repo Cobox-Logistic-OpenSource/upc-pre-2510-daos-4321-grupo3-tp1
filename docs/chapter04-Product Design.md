@@ -263,15 +263,15 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 
 #### 4.6.1. Software Architecture Context Diagram
 
-![ContextDiagram.png](..%2Fassets%2Fchapter-04%2FContextDiagram.png)
+![ContextDiagram.png](../assets/chapter-04/structurizr-SystemContext.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-![ContainerDiagram.jpg](../assets/chapter-04/ContainerDiagram.jpg)
+![ContainerDiagram.jpg](../assets/chapter-04/structurizr-Containers.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-![Components_Diagram.png](..%2Fassets%2Fchapter-04%2FComponents_Diagram.png)
+![Components_Diagram.png](../assets/chapter-04/structurizr-WebComponents.png)
 
 ### 4.7. Software Object-Oriented Design
 En esta sección se presenta el diseño de software orientado a objetos para OsitoPolar. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
