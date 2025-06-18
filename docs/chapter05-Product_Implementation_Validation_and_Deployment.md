@@ -461,9 +461,178 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 
 ![f87e7986-5421-4c6c-bb39-8f4bb6fc00a7](https://github.com/user-attachments/assets/fc7a14bc-12c5-4e3a-abde-87ecd5bf8997)
 
+### 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page y el Backend. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-06-17</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Angel Guillermo Berrospi</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Stephano Espinoza, Joseph Rodriguez, Raul Sanchez Cruz, Merly Salon Puerta, Angel Berrospi Marin</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  3 Review Summary</td>
+    <td colspan="8">En esta tercera sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio y el desarrollo del backend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing, backend y finalmente se decidió subir el landing en el último día junto con lo desarrollado del backend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8"> La meta de este Sprint 3 es la mejora tanto en planteamiento y desarrollo de la documentación, el código y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable y bien desarrollada para su buen uso.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">velocity 6</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">7 story points</td>
+</tr>
+</table>
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+
+### 5.2.3.3. Sprint Backlog 3
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 3</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US10</td>
+    <td colspan="2">Documentar mejoras en el documento</td>
+    <td colspan="1">UT10</td>
+    <td colspan="2">Documentar mejoras técnicas"</td>
+    <td colspan="3">Desarrollar una documentación clara sobre decisiones y mejoras implementadas en el desarrollo de esta nueva entrega</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Angel Berrospi</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Mejorar usabilidad de la landing page</td>
+    <td colspan="1">UT11</td>
+    <td colspan="2">Optimizar y mejorar la experiencia de usuario</td>
+    <td colspan="3">Ajustar la estructura del backend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodriguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Añadir mejoras en el frontend de la landing</td>
+    <td colspan="1">UT12</td>
+    <td colspan="2">Implementar mejores diseños a la landing page</td>
+    <td colspan="3">Incluir mejoras que ayuden al usuario con la usabilidad de la landing.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Stephano Espinoza</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US13</td>
+    <td colspan="2">Mejorar el bakend de la landing</td>
+    <td colspan="1">UT13</td>
+    <td colspan="2">Ajustar la estructura y los bounded context</td>
+    <td colspan="3">Aplicar mejoras de estructura y las etiquetas que conlleva el backend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Raul Sanchez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Diseño de Documentación</td>
+    <td colspan="1">UT14</td>
+    <td colspan="2">Añadir diseños y estructura a la documentación</td>
+    <td colspan="3">Incorporar nuevos puntos, apoyar en la mejora de la documentación y su presentación de alta calidad para que sean relevantes en el contenido, realización de entrevistas.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Merly Salon</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
 
 
 
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
+
+
+
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
+
+
+### 5.3. Validation Interviews
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
+
+### 5.3.1. Diseño de Entrevistas
+En esta sección el equipo establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones.
+
+### 5.3.2. Registro de Entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
 
 # Conclusiones
 - La planificación previa es clave para el desarrollo estructurado del sistema:
