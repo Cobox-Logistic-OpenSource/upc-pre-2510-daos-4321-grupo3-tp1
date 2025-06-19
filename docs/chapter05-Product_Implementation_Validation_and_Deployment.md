@@ -623,10 +623,61 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 
 
 ### 5.3. Validation Interviews
-En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
-
+En esta sección, regitraremos y explicaremos las actividades de entrevistas de validación durante el proyecto.
 ### 5.3.1. Diseño de Entrevistas
-En esta sección el equipo establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones.
+A continuación, se presentan los guiones de entrevista para los dos segmentos de usuarios de la plataforma Co-box Logistic.
+---
+#### Segmento 1: Empresas de Transporte de Carga
+
+**Datos iniciales**
+
+1. ¿Cuál es su nombre completo?  
+2. ¿Cuántos años tiene?  
+3. ¿Cuál es su ocupación?  
+4. ¿En qué distrito reside o trabaja actualmente?
+
+**Preguntas guía**
+
+5. ¿Qué le parece la facilidad de uso de la plataforma para gestionar sus servicios logísticos?  
+6. ¿La interfaz le permite visualizar de forma clara el estado de los servicios en curso?  
+7. ¿Considera útil el registro automático del kilometraje y la evidencia fotográfica al finalizar los servicios?  
+8. ¿Qué opina sobre la utilidad de los reportes e indicadores generados automáticamente? ¿Le ayudan en su toma de decisiones?  
+9. ¿La información de trazabilidad que ofrece la plataforma (historial de entregas, ubicación, evidencia) cumple con sus expectativas?  
+10. ¿Qué tan seguro y privado considera el manejo de la información operativa de su empresa dentro de la aplicación?  
+11. ¿Qué funcionalidades adicionales le gustaría ver para tener un mayor control y eficiencia?  
+12. En una escala del 1 al 10, ¿cómo calificaría la utilidad de la aplicación para una empresa como la suya?  
+13. ¿Qué sugerencias concretas nos daría para hacer esta plataforma más atractiva o competitiva?
+
+**Cierre**
+
+Muchas gracias por su tiempo y por brindarnos sus valiosos comentarios. Esta entrevista nos permitirá mejorar Co-box Logistic para ofrecer una solución más completa, eficiente y adaptada a las necesidades reales de empresas como la suya.
+
+---
+
+#### Segmento 2: Conductores de Unidades de Carga
+
+**Datos iniciales**
+
+1. ¿Cuál es tu nombre completo?  
+2. ¿Cuántos años tienes?  
+3. ¿Qué tipo de unidad conduces habitualmente?  
+4. ¿En qué distrito resides o trabajas actualmente?
+
+**Preguntas guía**
+
+5. ¿Qué te parece la facilidad para registrar el kilometraje o los eventos en la aplicación?  
+6. ¿Te resultó sencillo subir una foto como evidencia al momento de hacer una entrega?  
+7. ¿La aplicación es rápida y clara para usar mientras trabajas en campo?  
+8. ¿Qué opinas de la función de geolocalización? ¿Es precisa? ¿Te sientes cómodo con que tu ubicación esté siendo registrada?  
+9. ¿Consideras que los formularios de registro (combustible, entregas, eventos) son intuitivos?  
+10. ¿Sientes que tus aportes como conductor están bien reflejados en la plataforma?  
+11. ¿Qué mejorarías en la aplicación para hacerla más útil y amigable en tu día a día?  
+12. ¿Te gustaría tener una forma de comunicar incidencias directamente desde la aplicación?  
+13. En general, ¿te sientes cómodo usando la plataforma mientras trabajas?
+
+**Cierre**
+
+Muchas gracias por tu tiempo y tus comentarios. Esta entrevista nos permitirá seguir mejorando Co-box Logistic y hacerla más útil, ágil y eficiente para quienes operan en campo día a día.
 
 ### 5.3.2. Registro de Entrevistas
 
