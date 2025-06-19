@@ -670,10 +670,9 @@ Muchas gracias por su tiempo y por brindarnos sus valiosos comentarios. Esta ent
 7. ¿La aplicación es rápida y clara para usar mientras trabajas en campo?  
 8. ¿Qué opinas de la función de geolocalización? ¿Es precisa? ¿Te sientes cómodo con que tu ubicación esté siendo registrada?  
 9. ¿Consideras que los formularios de registro (combustible, entregas, eventos) son intuitivos?  
-10. ¿Sientes que tus aportes como conductor están bien reflejados en la plataforma?  
+10. ¿Te gustaría tener una forma de comunicar incidencias directamente desde la aplicación?
 11. ¿Qué mejorarías en la aplicación para hacerla más útil y amigable en tu día a día?  
-12. ¿Te gustaría tener una forma de comunicar incidencias directamente desde la aplicación?  
-13. En general, ¿te sientes cómodo usando la plataforma mientras trabajas?
+
 
 **Cierre**
 
