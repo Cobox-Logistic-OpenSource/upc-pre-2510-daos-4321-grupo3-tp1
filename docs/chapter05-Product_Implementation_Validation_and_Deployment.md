@@ -106,6 +106,7 @@ siguientes:
 
 
 ### 5.1.4. Software Deployment Configuration.
+A continuación se indican los pasos para desplegar cada componente de nuestra solución:
 ### Landing page deployment:
 Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
 
@@ -122,12 +123,18 @@ Verificamos la URL generada por GitHub Pages para asegurarnos de que la landing 
 
 De esta manera, la landing page quedará publicada utilizando GitHub Pages, siendo accesible para todos aquellos que cuenten con el enlace correspondiente.
 
-### 5.2. Landing Page, Services & Applications Implementation.
-
-
 ## 5.2. Landing Page, Services & Applications Implementation
-En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
-documentación y despliegue del Landing Page.
+En esta parte se detalla y evidencia la implementación de cada entregable de Cobox-logistic.
+
+**Landing page**
+Lalanding page se desplegó correctamente utilizando la plataforma GitHub Pages. A continuación, se presentan imágenes como evidencia de la implementación de dicha Landing Page.
+
+**Frontend**
+El frontend fue desarrollado utilizando el framework Vue. A continuación, se muestran imágenes que sirven como evidencia de la implementación del frontend.
+
+**Backend**
+A continuación las siguientes imágenes sirven de referencia para evidencia la implementación del backend.
+
 
 ### 5.2.1. Sprint 1
 
@@ -270,6 +277,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 </table>
 
 ### 5.2.1.4. Development Evidence for Sprint Review
+En esta sección se presentan los commits que reflejan los principales avances en la implementación. Estos registros provienen del repositorio de la Landing Page alojado en la organización de GitHub.
 ![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
@@ -353,6 +361,7 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
+Para optimizar el trabajo en equipo, se designó a cada miembro como líder responsable de un aspecto particular del proyecto. Cada uno de estos aspectos estuvo directamente relacionado con los entregables correspondientes.
 
 ![image](https://github.com/user-attachments/assets/85e7f5df-2f58-475a-abac-ff20ec6dbea3)
 
