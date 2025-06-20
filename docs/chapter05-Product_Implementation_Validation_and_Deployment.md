@@ -441,6 +441,8 @@ Para optimizar el trabajo en equipo, se designó a cada miembro como líder resp
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
+En esta sección se muestran los commits que evidencian los avances más relevantes en la implementación. Estos registros pertenecen al repositorio del frontend dentro de la organización en GitHub.
+
 ![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
 
 ![image](https://github.com/user-attachments/assets/79acfc5f-6e73-4584-a81b-3c4bc2d479ad)
@@ -531,6 +533,16 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
+
+Con el propósito de fortalecer la colaboración, se asignó a cada miembro el liderazgo de un aspecto específico del proyecto, vinculando cada rol directamente con los entregables correspondientes.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Health Monitoring (L) / Collaborator (C) | Aspect 2: Appointments (L) / Collaborator (C) | Aspect 3: Medication (L) / Collaborator (C) | Aspect 4: Patient Management (L) / Collaborator (C) | Aspect 5: Chat (L) / Collaborator (C) |
+|-----------------------------------|------------------|--------------------------------------------------|----------------------------------------------|---------------------------------------------|------------------------------------------------------|----------------------------------------|
+| Rodriguez Joseph                  | eJosR-Coding     | L                                                | C                                            | C                                           | C                                                    | C                                      |
+| Sanchez Raul                      | undevlab         | C                                                | L                                            | C                                           | C                                                    | C                                      |
+| Espinoza Stephano                | Stephanoescu     | C                                                | C                                            | L                                           | C                                                    | C                                      |
+| Salon Merly                       | MerlySalonP      | C                                                | C                                            | C                                           | L                                                    | C                                      |
+| Berrospi Angel                    | Guille-berrs     | C                                                | C                                            | C                                           | C                                                    | L                                      |
 
 
 ### 5.2.3.3. Sprint Backlog 3
