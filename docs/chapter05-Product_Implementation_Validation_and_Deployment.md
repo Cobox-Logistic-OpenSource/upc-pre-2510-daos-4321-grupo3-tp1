@@ -599,31 +599,34 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/62e1bef9-c710-4728-9179-f346b05ec525" />
+
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
 
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/60bce055-5ae0-4986-9fa2-b9f3ca8ada23" />
 
-
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/959fd979-2fbc-4705-bda2-23337e18a1aa" />
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
 
-
-
+![image](https://github.com/user-attachments/assets/1e2d00a1-2e24-4d4e-92dd-4593426c3824)
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
 
-
-
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/a5755260-9e2d-4f71-bf09-c4a50ecfe9f4" />
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
 
+![image](https://github.com/user-attachments/assets/d144b0c7-4d2b-4a76-951f-4e5bcae947bf)
+
 
 ### 5.3. Validation Interviews
-En esta sección, regitraremos y explicaremos las actividades de entrevistas de validación durante el proyecto.
+
 ### 5.3.1. Diseño de Entrevistas
 A continuación, se presentan los guiones de entrevista para los dos segmentos de usuarios de la plataforma Co-box Logistic.
 ---
@@ -684,6 +687,60 @@ Muchas gracias por tu tiempo y tus comentarios. Esta entrevista nos permitirá s
 ### 5.3.3. Evaluaciones según heurísticas
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
 
+### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | **Problema superficial:** puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### Tabla de resumen:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|----------------------|----------------------------------|
+| 1 |No puede agregar datos| 2 | Usability of users |
+| 2 |No puede eliminar datos| 2 | Usability of users |
+| 3 |Datos no verificados| 3 | Usability of systems |
+| 4 |Error de conexion con los datos| 3 | Usability about information |
+
+### Descripción de problemas:
+
+Problema 1: No puede agregar datos
+
+Severidad: 2
+
+Problema: El sistema no permite al usuario agregar nuevos datos, ya sea por falta de botón, error o falta de claridad.
+
+Solución: Agregar un botón visible y accesible para insertar datos, y brindar retroalimentación inmediata al usuario.
+
+
+Problema 2: No puede eliminar datos
+
+Severidad: 2
+
+Problema: El usuario no puede eliminar registros previamente creados, lo que limita el control sobre la información.
+
+Solución: Incluir una opción clara para eliminar datos con confirmación de acción para evitar errores.
+
+
+Problema 3: Datos no verificados
+
+Severidad: 3
+
+Problema: El sistema muestra datos que no han sido verificados, lo cual puede inducir a errores de interpretación.
+
+Solución: Implementar un sistema de validación y verificación automática o manual antes de mostrar los datos.
+
+Problema 4: Error de conexión con los datos
+
+Severidad: 3
+
+Problema: La herramienta presenta fallas al intentar conectarse con la fuente de datos, interrumpiendo su funcionamiento.
+
+Solución: Mejorar la gestión de errores de conexión, incluir mensajes claros para el usuario y reconexión automática.
+
 # Conclusiones
 - La planificación previa es clave para el desarrollo estructurado del sistema:
 Durante el proceso se evidenció la necesidad de una coordinación anticipada entre las áreas de diseño, desarrollo y análisis de usuarios para alinear correctamente la funcionalidad con las necesidades reales del público objetivo.
@@ -696,6 +753,8 @@ La combinación de ambos tipos de organización facilita una navegación más in
 
 - El diseño centrado en el usuario es esencial para aplicaciones en campo:
 Particularmente en el caso de los conductores, se concluye que los flujos deben ser extremadamente simples, directos y visuales, ya que los usuarios interactúan en contextos de movilidad y bajo presión de tiempo.
+
+
 # Anexos
 
 Video TB1: 
