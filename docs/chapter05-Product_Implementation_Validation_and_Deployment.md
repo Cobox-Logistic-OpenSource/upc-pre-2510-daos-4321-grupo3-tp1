@@ -546,7 +546,10 @@ Con el propósito de fortalecer la colaboración, se asignó a cada miembro el l
 
 
 ### 5.2.3.3. Sprint Backlog 3
+Para facilitar la organización durante este sprint y evitar complicaciones, utilizamos la herramienta Trello como apoyo en la gestión del trabajo en equipo. A continuación la evidencia:
 
+
+A continuación se presenta el Sprint Backlog correspondiente al tercer sprint, en el que se especifican las historias de usuario junto con las tareas asignadas a cada miembro del equipo.
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
@@ -619,7 +622,9 @@ Con el propósito de fortalecer la colaboración, se asignó a cada miembro el l
 </table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación. Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
+🔗 Enlace al repositorio del backend:
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/62e1bef9-c710-4728-9179-f346b05ec525" />
 
 
@@ -647,7 +652,7 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 
 
 ### 5.3. Validation Interviews
-
+En esta sección, regitraremos y explicaremos las actividades de entrevistas de validación durante el proyecto.
 ### 5.3.1. Diseño de Entrevistas
 A continuación, se presentan los guiones de entrevista para los dos segmentos de usuarios de la plataforma Co-box Logistic.
 ---
