@@ -625,8 +625,7 @@ A continuación se presenta el Sprint Backlog correspondiente al tercer sprint, 
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación. Estos commits provienen del repositorio del frontend de la organización de GitHub.
 
 🔗 Enlace al repositorio del backend:
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/62e1bef9-c710-4728-9179-f346b05ec525" />
-
+![image](https://hackmd.io/_uploads/S1JQq0KSel.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
