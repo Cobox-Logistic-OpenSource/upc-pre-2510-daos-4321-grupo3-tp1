@@ -767,6 +767,186 @@ Problema: La herramienta presenta fallas al intentar conectarse con la fuente de
 
 Solución: Mejorar la gestión de errores de conexión, incluir mensajes claros para el usuario y reconexión automática.
 
+### 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page y el Backend. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-07-03</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Angel Guillermo Berrospi</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Stephano Espinoza, Joseph Rodriguez, Raul Sanchez Cruz, Merly Salon Puerta, Angel Berrospi Marin</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  4 Review Summary</td>
+    <td colspan="8">En esta cuarta sección se planteó el mejormiento del funcionamiento y conexión de Landing page y el desarrollo del backend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing, backend y finalmente se decidió subir el landing en el último día junto con lo desarrollado del backend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8"> La meta de este Sprint 4 es la mejora tanto en planteamiento y desarrollo de la landing y el backend, ya que nuestra Landing Page debe tener una correcta funcionalidad para el usuario de forma amigable y bien desarrollada para su buen uso.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8">velocity 5</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">6 story points</td>
+</tr>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+Con el propósito de fortalecer la colaboración, se asignó a cada miembro el liderazgo de un aspecto específico del proyecto, vinculando cada rol directamente con los entregables correspondientes.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Health Monitoring (L) / Collaborator (C) | Aspect 2: Appointments (L) / Collaborator (C) | Aspect 3: Medication (L) / Collaborator (C) | Aspect 4: Patient Management (L) / Collaborator (C) | Aspect 5: Chat (L) / Collaborator (C) |
+|-----------------------------------|------------------|--------------------------------------------------|----------------------------------------------|---------------------------------------------|------------------------------------------------------|----------------------------------------|
+| Rodriguez Joseph                  | eJosR-Coding     | L                                                | C                                            | C                                           | C                                                    | C                                      |
+| Sanchez Raul                      | undevlab         | C                                                | L                                            | C                                           | C                                                    | C                                      |
+| Espinoza Stephano                | Stephanoescu     | C                                                | C                                            | L                                           | C                                                    | C                                      |
+| Salon Merly                       | MerlySalonP      | C                                                | C                                            | C                                           | L                                                    | C                                      |
+| Berrospi Angel                    | Guille-berrs     | C                                                | C                                            | C                                           | C                                                    | L                                      |
+
+
+### 5.2.4.3. Sprint Backlog 4
+Para facilitar la organización durante este sprint y evitar complicaciones, utilizamos la herramienta Trello como apoyo en la gestión del trabajo en equipo. A continuación la evidencia:
+
+
+A continuación se presenta el Sprint Backlog correspondiente al tercer sprint, en el que se especifican las historias de usuario junto con las tareas asignadas a cada miembro del equipo.
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Documentar mejoras en el documento</td>
+    <td colspan="1">UT15</td>
+    <td colspan="2">Documentar mejoras técnicas"</td>
+    <td colspan="3">Desarrollar una documentación clara sobre decisiones y mejoras implementadas en el desarrollo de esta nueva entrega</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Angel Berrospi</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Mejorar usabilidad de la landing page</td>
+    <td colspan="1">UT16</td>
+    <td colspan="2">Optimizar  la experiencia de usuario</td>
+    <td colspan="3">Mejorar la conexión con el backend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodriguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US17</td>
+    <td colspan="2">Añadir mejoras en el frontend de la landing</td>
+    <td colspan="1">UT17</td>
+    <td colspan="2">Arreglar diseños de la landing page</td>
+    <td colspan="3">Incluir mejoras que ayuden al usuario con la usabilidad de la landing.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Stephano Espinoza</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US18</td>
+    <td colspan="2">Mejorar el bakend de la landing</td>
+    <td colspan="1">UT18</td>
+    <td colspan="2">Ajustar la estructura y los bounded context</td>
+    <td colspan="3">Aplicar mejoras de estructura y las etiquetas que conlleva el backend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Raul Sanchez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US19</td>
+    <td colspan="2">Diseño de Documentación</td>
+    <td colspan="1">UT14</td>
+    <td colspan="2">Añadir mejoras a la documentación</td>
+    <td colspan="3">Incorporar nuevos puntos, apoyar en la mejora de la documentación para que sean relevantes en el contenido.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Merly Salon</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.4.4. Development Evidence for Sprint Review
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación. Estos commits provienen del repositorio del frontend de la organización de GitHub.
+
+🔗 Enlace al repositorio del backend:
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/62e1bef9-c710-4728-9179-f346b05ec525" />
+
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
+
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/60bce055-5ae0-4986-9fa2-b9f3ca8ada23" />
+
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/959fd979-2fbc-4705-bda2-23337e18a1aa" />
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
+
+![image](https://github.com/user-attachments/assets/1e2d00a1-2e24-4d4e-92dd-4593426c3824)
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/397fa219-886a-43ec-86f6-b271bb3190cc" />
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
+
+![image](https://github.com/user-attachments/assets/d144b0c7-4d2b-4a76-951f-4e5bcae947bf)
+
+
 # Conclusiones
 - La planificación previa es clave para el desarrollo estructurado del sistema:
 Durante el proceso se evidenció la necesidad de una coordinación anticipada entre las áreas de diseño, desarrollo y análisis de usuarios para alinear correctamente la funcionalidad con las necesidades reales del público objetivo.
