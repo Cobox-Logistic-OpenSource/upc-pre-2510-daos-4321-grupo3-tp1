@@ -278,7 +278,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 En esta sección se presentan los commits que reflejan los principales avances en la implementación. Estos registros provienen del repositorio de la Landing Page alojado en la organización de GitHub.
-![image](https://hackmd.io/_uploads/S1JQq0KSel.png)
+![Implementation2](https://github.com/user-attachments/assets/9f82b837-35dc-40bd-8b1a-f1f0d2fd23f0)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
